@@ -38,13 +38,25 @@ Mid-market to enterprise brands (technology, retail, healthcare, education, fina
 - **Founders:** Chris Andrew (CEO), Robert MacCloy (co-founder)
 - Featured in Axios (exclusive Series A coverage)
 
+## Pricing (updated April 2026)
+| Plan | Price | Notes |
+|---|---|---|
+| Core (Brand) | $250/month | Monitoring, auditing, optimization, AXP |
+| Enterprise (Brand) | Custom | Full feature set |
+| Agency Core | $500/month | Multi-client management |
+| Agency Enterprise | Custom | Full agency feature set |
+
 ## Recent News (as of April 2026)
+- **April 2026:** Published **"7 Best AEO/GEO Tools for 2026"** ranking on Scrunch blog — named themselves #1 (obvious bias, but methodology is transparent and well-structured; useful competitive intelligence)
+- **April 2026:** Published **Q1 2026 AI Search Industry Lookback** on LinkedIn
 - **July 2025:** $15M Series A announced — covered by Axios exclusively; led by Decibel
 - **July 2025:** Announced AXP (Agent Experience Platform) as new infrastructure layer for AI-native content delivery
 - **June 2025 (product update):** Launched AI Bot Traffic Monitoring (Cloudflare-first), expanded geo support, redesigned Prompt UI, domain-level analytics in Sources, Agency Brand Creation Tool
 - Growing at 50%+ month-over-month in paying customers during Q2 2025
 - Claims average customer sees 40% increase in referral traffic and up to 4x visibility improvement
 - Now tracking 9 AI platforms including Meta AI and Google AI Mode
+- Confirmed G2 rating: 4.6/5 (55 reviews) — strong and growing review base
+- Generate More non-competitive review: 3.9/5 (some criticism of complexity vs. results)
 
 ## Strengths
 - AXP is a genuinely novel technical approach — not just monitoring but infrastructure

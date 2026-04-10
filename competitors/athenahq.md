@@ -25,11 +25,11 @@ AthenaHQ is a GEO/AEO platform purpose-built for AI search optimization, founded
 ## Pricing
 | Plan | Price | Notes |
 |---|---|---|
-| Self-Serve | $95/month | 3,600 credits; 1 credit = 1 AI response; up to 8 LLMs |
+| Self-Serve | $295/month | Credit-based (3,500 credits/month); 1 credit = 1 AI response per model |
 | Enterprise | Custom | LLM traffic analysis, ACE, dedicated GEO specialist, API access |
 
-*Note: First month of Self-Serve currently at 67% off ($32/month). Older sources cited $295-$900/month — pricing has changed; $95/month appears to be the current self-serve rate.*  
-*All plans include unlimited seats with RBAC.*
+*Note: Pricing is confirmed at $295/month per Scrunch's competitive database (April 2026). Earlier sources cited $95/month — this appears to have been an introductory or promotional rate. All plans include unlimited seats with RBAC.*  
+*G2 rating: 4.9/5 based on 27 reviews (Spring 2026 — very high satisfaction but still small review base).*
 
 ## Target Customer
 Marketing, brand, and growth teams — from startups to enterprise. The Action Center and unlimited seats make it accessible for teams. Enterprise differentiators (ACE, LLM traffic) serve large brands. G2 Spring 2026 "High Performer" recognition.

@@ -36,10 +36,12 @@ Enterprise marketing teams, large brand owners, and companies that need research
 - HQ: New York City
 
 ## Recent News (as of April 2026)
-- **August 2025:** Closed $19M Series A (Felicis Ventures)
-- **April 2026:** Published updated "Top 15 GEO Platforms for 2026" ranking (self-ranking #1 — notable for their assessment of the competitive landscape)
+- **August 2025:** Closed $19M Series A (Felicis Ventures); total raised confirmed at $20M (press release language)
+- **January 2026:** Launched **Shopping Intelligence** — tracks how AI models recommend products in ChatGPT shopping results; shows when products appear in AI product cards, competitive visibility vs. competitors, and which retail partners drive most AI discovery. Announced with CEO quote: "Which products to promote, which content gaps to fill, which retail partnerships to strengthen." Currently tracks ChatGPT; additional models planned.
+- **Q1 2026:** Published updated "Top 15 GEO Platforms for 2026" ranking (self-ranking #1 — notable for their assessment of the competitive landscape)
 - Growing team to 40+ employees
 - Actively producing thought leadership on GEO methodology and measurement rigor
+- Shopping Intelligence directly competes with Profound's Shopping Analysis (published March 2026: 22.5M ChatGPT offers analyzed)
 - Increasingly appearing in enterprise AEO evaluation shortlists alongside Profound and Brandlight
 
 ## Strengths
