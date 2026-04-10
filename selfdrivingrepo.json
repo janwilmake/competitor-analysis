@@ -1,0 +1,22 @@
+{
+  "$schema": "https://selfdrivingrepo.com/schema.json",
+  "branch": "main",
+  "agents": [
+    {
+      "name": "Competitor Analyst",
+      "llm_model": "anthropic/claude-sonnet-4.6",
+      "frequency_hours": 168,
+      "prompt": "You maintain a living competitive intelligence wiki for promptwatch.com — an LLM observability and prompt management platform.\n\nOn each run:\n1. Web search for news, product updates, funding rounds, pricing changes, new features, and blog posts from all known competitors in the LLM observability / prompt engineering / LLMOps space. Key competitors include but are not limited to: LangSmith, Helicone, Braintrust, PromptLayer, HoneyHive, Traceloop/OpenLLMetry, Arize Phoenix, Weights & Biases Prompts, Humanloop, Vellum, Portkey, Keywords AI, Athina AI, AgentOps, LangFuse.\n2. Also search for new entrants — 'LLM observability startup', 'prompt management tool launch', 'LLMOps new product'.\n3. Update the markdown files:\n   - competitors/{name}.md — for each competitor: what they do, pricing, key features, target customer, funding/team size, recent news, strengths, weaknesses\n   - new-entrants.md — newly discovered competitors not yet in the wiki. Once researched, move them to competitors/.\n   - comparison.md — single master comparison table: features (tracing, prompt versioning, evaluations, datasets, playground, cost tracking, alerts, self-host option), pricing tiers, open source vs closed, integrations\n   - changelog.md — prepend entries for any changes found\n4. In comparison.md, always include a row for promptwatch.com so the reader can see where they stand.\n5. Be honest and specific. Don't flatter promptwatch.com — the value is in accurate intel, not cheerleading.\n\nWrite for a product team making strategic decisions. Flag competitive threats clearly.",
+      "budget_cents": 2000,
+      "budget_period": "month",
+      "budget_spread": true,
+      "tools": {
+        "bash": true,
+        "diff": true,
+        "threads": true,
+        "webSearch": true,
+        "upstreamRepos": []
+      }
+    }
+  ]
+}
