@@ -1,51 +1,65 @@
 # Scrunch AI
 
 ## Overview
-**Website:** https://scrunch.ai  
-**Category:** AI Search Visibility / Brand Narrative & Sentiment  
-**Founded:** ~2024  
-**HQ:** USA  
-**Status:** Early-stage, active
+**Website:** https://scrunch.com (also scrunchai.com)  
+**Category:** AI Search Visibility / GEO Platform + Infrastructure  
+**Founded:** ~2024 (emerged from stealth November 2024)  
+**HQ:** Salt Lake City, UT, USA  
+**Status:** Series A-funded startup, active — pivoting from monitoring to "AI-native marketing infrastructure"
 
-Scrunch AI differentiates itself with a focus on **narrative and sentiment analysis** inside AI-generated answers. Rather than just tracking if a brand appears, Scrunch examines *how* the brand is framed, what story the AI tells about it, and whether sentiment is positive, neutral, or negative.
+Scrunch AI started as an AI search visibility monitoring tool but is now positioning itself as an **AI-native marketing infrastructure** company. Their key bet: brands need more than dashboards — they need a machine-readable version of their brand that AI crawlers can actually understand and cite. This is embodied in their **Agent Experience Platform (AXP)**, which creates a "parallel website" alongside a brand's human-facing site, optimized for how LLMs parse and return content.
 
 ## Key Features
-- **Narrative analysis:** How AI models describe and position your brand beyond just mention frequency
-- **Sentiment tracking:** Positive/neutral/negative framing of brand mentions across AI outputs
-- **Competitor narrative benchmarking:** Compare story framing vs. competitor brands
-- **Multi-engine tracking** across major AI search platforms
+- **Monitoring & Insights:** Brand visibility tracking across 9 AI platforms (ChatGPT, Gemini, Perplexity, Claude, Meta AI, Google AI Mode, Google AI Overviews, Microsoft Copilot, DeepSeek)
+- **AXP (Agent Experience Platform):** Creates a machine-readable parallel website for AI crawlers — doesn't change the human-facing site, but creates structured content specifically for LLM consumption
+- **AI Bot Traffic Monitoring:** Tracks visits from AI bots/agents via Cloudflare integration (and expanding to Akamai, Vercel)
+- **Narrative / Sentiment Analysis:** Core differentiator — analyzes *how* AI describes your brand, not just *if* it appears
+- **Misinformation & Hallucination Detection:** Identifies when AI incorrectly describes or hallucinates about your brand
+- **Source-level citation tracking:** Shows exact sources driving AI visibility
+- **Competitor benchmarking:** Share of voice vs. competitors
+- **Agency Partner Program:** Agency brand creation tool for multi-client management
+- **Expanded Geo Support:** Country-level filtering on AI monitoring
+- **SOC 2 certification, SAML SSO, RBAC** for enterprise security
 
 ## Pricing
-- From ~$250–$300/month (entry tier, reported by comparison sites in Q1 2026)
+- Entry: ~$250–500/month (exact current tiers not publicly confirmed on website)
 - Enterprise: Custom
+- 7-day free trial available
+- Ranked as more accessible than Evertune but more expensive than Peec AI
 
 ## Target Customer
-Brand managers, communications teams, PR professionals, and companies concerned about reputation and narrative control in AI search — not just visibility metrics.
+Mid-market to enterprise brands (technology, retail, healthcare, education, financial services). Strong agency partner program for multi-client use. 500+ brands as customers.
 
 ## Funding & Team
-- Small startup; funding not publicly disclosed
-- Appearing in comparison content Q1-Q2 2026 as a recognized niche player
-
-## Integrations
-- ChatGPT
-- Perplexity
-- Claude
-- Gemini
+- **Seed:** $4M (Mayfield)
+- **Series A:** $15M (July 2025, led by Decibel; participation from Mayfield, Homebrew, and notable angels including TJ Parker/PillPack, Bryant Chou/Webflow, Clara Shih/Meta AI)
+- **Total raised:** $26M (per Scrunch FAQ page, includes additional rounds from GTM Capital and other investors)
+- **Team:** ~30–50 (estimated, Salt Lake City and SF)
+- **Founders:** Chris Andrew (CEO), Robert MacCloy (co-founder)
+- Featured in Axios (exclusive Series A coverage)
 
 ## Recent News (as of April 2026)
-- Cited in multiple "Profound alternatives" and "best AEO tools" comparisons published early 2026
-- No major funding or product announcements found
+- **July 2025:** $15M Series A announced — covered by Axios exclusively; led by Decibel
+- **July 2025:** Announced AXP (Agent Experience Platform) as new infrastructure layer for AI-native content delivery
+- **June 2025 (product update):** Launched AI Bot Traffic Monitoring (Cloudflare-first), expanded geo support, redesigned Prompt UI, domain-level analytics in Sources, Agency Brand Creation Tool
+- Growing at 50%+ month-over-month in paying customers during Q2 2025
+- Claims average customer sees 40% increase in referral traffic and up to 4x visibility improvement
+- Now tracking 9 AI platforms including Meta AI and Google AI Mode
 
 ## Strengths
-- Unique positioning around narrative/sentiment — meaningfully differentiated from pure mention-tracking tools
-- Relevant for brand and communications teams, not just SEO
-- Fills a gap that Profound and Peec AI largely ignore
+- AXP is a genuinely novel technical approach — not just monitoring but infrastructure
+- Narrative/sentiment analysis is a core differentiator (how AI describes your brand, not just if it appears)
+- Misinformation/hallucination detection fills a real enterprise need
+- Strong funding ($26M total) and team credibility (Decibel, Mayfield, notable angels)
+- SOC 2 certification opens regulated-industry doors (healthcare, finance)
+- Agency partner program for multi-client management
+- 500+ brand customer base validates product-market fit
 
 ## Weaknesses
-- Higher price point for a relatively early-stage tool ($250–$300/month entry)
-- Narrower use case — less relevant for pure SEO/visibility teams
-- Smaller brand recognition vs. Profound or Promptwatch
-- Limited execution features
+- AXP creates a "parallel web" — philosophically controversial (some consider this "AI-washing" brand content)
+- Pricing still mid-to-high tier; less accessible than Peec or Otterly for budget buyers
+- Narrative/hallucination detection features add complexity for simpler use cases
+- Less enterprise brand recognition than Profound at similar funding level
 
 ## Competitive Threat to Promptwatch
-**LOW-MODERATE.** Scrunch competes in the same AEO tracking category but targets a distinct buyer persona (brand/comms vs. SEO/content). May appear in the same evaluation shortlists for enterprise brand teams. Not a direct feature competitor on core tracking metrics.
+**MODERATE-HIGH.** Scrunch's AXP infrastructure concept is a meaningful future differentiation — it's not just about tracking but actively shaping what AI ingests. The hallucination/misinformation detection is a feature Promptwatch lacks. At similar pricing, Scrunch competes directly for Promptwatch's mid-market buyers. The $26M total funding also gives them a substantial resource advantage. Watch AXP adoption carefully — if it resonates with buyers, it reframes the entire competitive category.

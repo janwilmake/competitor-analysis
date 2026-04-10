@@ -3,58 +3,71 @@
 ## Overview
 **Website:** https://www.tryprofound.com  
 **Category:** AI Search Visibility / AEO Platform  
-**Founded:** ~2023  
+**Founded:** ~2024  
 **HQ:** USA  
-**Status:** VC-backed, active
+**Status:** VC-backed unicorn — $1B valuation (February 2026)
 
-Profound is the leading enterprise-grade AI search visibility platform. It tracks how brands appear inside AI-generated responses across ChatGPT, Google AI Overviews, Perplexity, and other LLM-powered search engines. Positioned as the benchmark tool for "Answer Engine Optimization" (AEO). Founder previously worked at Microsoft Advertising.
+Profound is the dominant enterprise platform in the AEO/GEO category. It tracks brand visibility across AI engines, surfaces competitive intelligence, and now includes autonomous **Profound Agents** for content creation and optimization workflows. As of February 2026, it is the most-funded pure-play AEO company in the world ($155M total), serving 700+ brands including 10% of the Fortune 500.
 
 ## Key Features
-- **Answer Engine Insights:** Tracks brand mention frequency, share of voice, and sentiment across AI platforms
-- **Prompt Volume Tracking:** Identifies which queries drive AI responses mentioning your brand (or competitors)
-- **Agent Analytics:** Tracks how AI agents reference and use brand content
-- **Profound Workflows (launched late 2025):** Automation layer for marketing teams — audit, analyze, and optimize content at scale with AI-backed recommendations
-- **GPT-5.2 Tracking:** Started tracking GPT-5.2 responses in ChatGPT as of December 2025
-- **Competitor Intelligence:** Benchmarks share of voice vs. named competitors
-- **Content optimization recommendations** based on citation analysis
+- **Answer Engine Insights:** Tracks brand mentions, sentiment, share of voice, and competitive positioning across AI responses
+- **Profound Agents:** Autonomous AI workflows for content drafting, FAQ generation, gap analysis, and content distribution — fully integrated with monitoring data. Uses a credit-based model.
+- **Conversation Explorer:** Access to a large proprietary prompt database to discover real queries users ask
+- **Agent Analytics:** Track which AI crawlers visit your site and what they access
+- **Prompt Volumes & Shopping:** Shopping intent tracking, prompt volume estimation
+- **Semrush Integration:** Pull Semrush SEO data (backlinks, keyword research, domain metrics) directly into Profound Agents (launched March 2026)
+- **10+ platform coverage (Enterprise):** ChatGPT, Perplexity, Google AI Overviews, Google AI Mode, Gemini, Claude, Grok, Meta AI, DeepSeek, Microsoft Copilot
+- **HubSpot, Google Workspace, Contentful, Vercel integrations**
+- Content generation and optimization tools
 
-## Pricing
-- Entry: ~$99/month (reported by comparison sites)
-- Growth: ~$400/month (as noted in Reddit discussions)
-- Enterprise: Custom
-- No widely published pricing page; sales-led for higher tiers
+## Pricing (as of March 2026)
+| Plan | Price | Prompts | Engines | Notes |
+|---|---|---|---|---|
+| Starter | $99/mo (billed annually) | 50 | ChatGPT only | Basic monitoring, 3 seats |
+| Growth | $399/mo (billed annually) | 100 | 3 engines | + 6 articles/mo, email support |
+| Enterprise | Custom | Custom | 10+ | Full feature set, Agents |
+
+*Note: The old $499/month entry price is gone. Profound repriced downward after the Series C — the $99 Starter tier now directly competes with Promptwatch Essential.*
+
+Profound Agents are priced separately on a credit-based model.
 
 ## Target Customer
-Enterprise marketing teams, large brand owners, SEO/content directors, digital marketing agencies. Heavy focus on enterprises managing visibility at scale across industries (retail, travel, finance, tech).
+Mid-market to enterprise marketing teams (AEO teams, content teams, PR/brand teams), agencies. Key logos: Target, Walmart, Figma, MongoDB, Charlotte Tilbury, U.S. Bank, Ramp, Gamma.
 
 ## Funding & Team
-- VC-backed; total funding undisclosed publicly
-- Recognized in early-stage AEO/GEO coverage; described as "enterprise software" in user reviews
-
-## Integrations
-- ChatGPT (OpenAI)
-- Google AI Overviews
-- Perplexity
-- Microsoft Copilot / Bing AI (reportedly)
+- **Seed:** Undisclosed (South Park Commons, Saga Ventures)
+- **Series A:** ~$20M (2024)
+- **Series B:** $35M (August 2025, Sequoia Capital led — reported by Fortune)
+- **Series C:** $96M (February 2026, Lightspeed Venture Partners led; also Sequoia, Kleiner Perkins, Evantic, Saga Ventures, South Park Commons)
+- **Total raised:** $155M+
+- **Valuation:** $1 billion (unicorn as of Feb 2026)
+- **Team:** ~120 employees (February 2026, Fortune profile)
+- **Founders:** James Cadwallader (CEO), Dylan Babbs (CTO)
 
 ## Recent News (as of April 2026)
-- Launched Profound Workflows (public beta, late 2025) — new automation layer for content optimization
-- Added GPT-5.2 tracking across entire product suite (December 2025)
-- Cited in Gartner and eMarketer coverage of GEO/AEO market maturation
-- Consistently ranked #1 in AEO tool comparisons in terms of data depth and enterprise polish
+- **February 2026:** $96M Series C at $1B valuation — covered by Fortune, TechCrunch, Lightspeed blog
+- **February 2026:** Launched **Profound Agents** — autonomous marketing automation built natively into the platform
+- **March 2026:** Launched **Semrush integration nodes** for Profound Agents — brings Semrush backlink/keyword data into AI monitoring workflows
+- **March 2026:** Published research on ChatGPT shopping: 22.5M offers analyzed, Walmart leads rank-1 buy links
+- **December 2025 (approx):** Repriced downward — Starter at $99/mo (was $499+)
+- **Lead the G2 Winter Report 2026** for AEO tools
+- Hosted "Zero Click" conference, cementing thought leadership in the category
 
 ## Strengths
-- Most data-rich analytics in the AEO category — considered the "intelligence center"
-- Very polished UI; excellent for stakeholder reporting
-- Broadest platform coverage among competitors
-- Strong enterprise credibility and case studies
-- Prompt Volume insights are considered the most accurate in the market
+- Dominant brand recognition in the AEO/GEO category — most referenced in "best AEO tools" lists
+- Deepest funding ($155M) creates a wide moat for R&D, sales, and data collection
+- Enterprise validation: 700+ brands, 10% of Fortune 500, named in procurement shortlists
+- Profound Agents turns monitoring into action — first serious full-platform play in the category
+- Repriced downward ($99 Starter) allows capturing mid-market while keeping enterprise revenue
+- Semrush integration is a clever distribution play — surfaces Profound inside SEO workflows
+- 10+ platform coverage at enterprise tier is broadest among dedicated AEO tools
 
 ## Weaknesses
-- Expensive; steep jump between tiers (~$99 to ~$400/month)
-- Heavy on analytics, light on execution — users note "we know what happened, but not what to do next"
-- Not built for SMBs or agencies managing many small accounts
-- Limited actionable content creation features (strong on insight, weak on execution)
+- Agents use a credit-based model which adds cost unpredictability for heavy users
+- Starter tier ($99, ChatGPT only) is limited — real utility requires Growth ($399+)
+- 120 employees competing for AI talent against OpenAI, Anthropic — hiring is stated challenge
+- As market leader, slower to experiment with genuinely new approaches (crawler logs, etc.)
+- Self-serve plan restricts teams to 3 seats — agencies may find this limiting
 
 ## Competitive Threat to Promptwatch
-**HIGH.** Profound is the clear market leader in this category. Directly competing for the same enterprise and mid-market buyers. If Promptwatch cannot differentiate on actionability, data freshness, or pricing, Profound will win most competitive deals.
+**CRITICAL / HIGHEST THREAT.** With $155M raised, $1B valuation, 700+ enterprise customers, 10% of Fortune 500, and a $99/month entry price that directly overlaps Promptwatch's core tier, Profound is the defining competitive force in this market. The Agents launch means Profound is no longer just a monitoring competitor — it is a full marketing platform competitor. Promptwatch must clearly differentiate on depth (crawler logs, citation chains, GSC integration) or agency/white-label offering, or risk being squeezed out of mid-market deals where Profound's brand name now also fits the budget.

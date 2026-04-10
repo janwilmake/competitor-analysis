@@ -1,6 +1,6 @@
 # AI Search Visibility / AEO / GEO — Master Comparison Table
 
-*Last updated: 2026-04-10*
+*Last updated: 2026-04-10 (run 2)*
 
 > **Context:** Promptwatch.com is an **AI Search Visibility platform** (also called AEO — Answer Engine Optimization, or GEO — Generative Engine Optimization). It helps brands track and optimize how they appear inside AI-generated responses from ChatGPT, Gemini, Claude, Perplexity, and Google AI Overviews. This is a *marketing* tool, not a developer observability tool.
 

@@ -16,10 +16,11 @@ Peec AI is a monitoring-layer AEO/GEO tool focused on tracking brand presence in
 - **115+ language coverage** with IP-based geo filtering (from comparison sources)
 - **Daily monitoring** for configured prompts
 
-## Pricing
-- From €89/month (~$95/month at current rates)
-- No detailed public pricing page widely confirmed; sources suggest single paid tier around €89/month
-- Likely freemium entry or free trial
+## Pricing (updated April 2026)
+- **Starter:** €89/month (annual plan), 25 prompts — ChatGPT, Perplexity, Google AI Overviews included; Gemini, AI Mode, Claude, DeepSeek, Llama, Grok available at additional fee
+- **Pro:** €199/month (annual), 100 prompts — adds Slack support
+- Free trial available
+- Note: Zapier's 2026 review cites Peec as "notably lacking actionable insights, trend data, and AI crawler visibility insights"
 
 ## Target Customer
 Growing startups, mid-market teams, agencies looking for affordable, competitive AEO tracking without enterprise complexity.
