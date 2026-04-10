@@ -1,6 +1,6 @@
 # Competitor Intelligence Wiki — Promptwatch.com
 
-*Maintained by automated analysis. Last updated: 2026-04-10 (run 3).*
+*Maintained by automated analysis. Last updated: 2026-04-10 (run 4).*
 
 ---
 
@@ -69,14 +69,17 @@ competitors/           — one file per established competitor
   otterly-ai.md        — 20K+ users; G2 Rookie of Year; bootstrapped; Austria
   evertune.md          — enterprise; Shopping Intelligence; $20M raised
   ahrefs-brand-radar.md
-  semrush-ai-toolkit.md
+  semrush-ai-toolkit.md — ⚠️ Being acquired by Adobe ($1.9B, H1 2026 close)
   se-ranking-visible.md
   athenahq.md          — YC-backed; $295/mo; 4.9/5 G2; Google/DeepMind founders
   brandlight.md        — Israeli enterprise; $36M raised; $4K–15K/mo
-  llm-pulse.md         ← NEW this run (promoted from new-entrants)
-  bluefish-ai.md       ← NEW this run (promoted from new-entrants)
-  aiclicks.md          ← NEW this run (promoted from new-entrants)
-new-entrants.md        — emerging tools not yet fully profiled
+  llm-pulse.md         — bootstrapped European; white-label; MCP integration
+  bluefish-ai.md       — enterprise; AI Brand Vault; ~$24M funded
+  aiclicks.md          — Lithuanian; 10+ LLMs from entry; 4.9/5 G2
+  vismore.md           ← NEW this run: execution-layer AEO ($99–$399/mo); Reddit/Medium publishing
+  orchly.md            ← NEW this run: lowest-price AEO+SEO combined ($49/mo); 14-day trial
+  gracker-ai.md        ← NEW this run: B2B SaaS/cybersecurity specialist; vertical AEO
+new-entrants.md        — emerging tools not yet fully profiled (Surfer AI Tracker, Searchable, etc.)
 comparison.md          — master feature/pricing comparison table
 changelog.md           — running log of all changes and key findings
 ```

@@ -1,6 +1,6 @@
 # AI Search Visibility / AEO / GEO — Master Comparison Table
 
-*Last updated: 2026-04-10 (run 3)*
+*Last updated: 2026-04-10 (run 4)*
 
 > **Context:** Promptwatch.com is an **AI Search Visibility platform** (also called AEO — Answer Engine Optimization, or GEO — Generative Engine Optimization). It helps brands track and optimize how they appear inside AI-generated responses from ChatGPT, Gemini, Claude, Perplexity, and Google AI Overviews. This is a *marketing* tool, not a developer observability tool.
 
@@ -8,31 +8,32 @@
 
 ## Core Feature Comparison
 
-| Feature | **Promptwatch** | **Profound** | **Peec AI** | **Scrunch AI** | **Evertune** | **Otterly AI** | **AthenaHQ** | **Bluefish AI** | **LLM Pulse** | **AIclicks** | **Ahrefs Brand Radar** | **Semrush AI Toolkit** |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **Brand mention tracking** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Share of voice vs. competitors** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Prompt/query volume data** | ✅ | ✅ | ✅ | Partial | ✅ | ✅ | ✅ (enterprise) | ❌ | ✅ | Partial | ✅ | ✅ |
-| **Source/citation tracking** | ✅ | Partial | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ (core) | ✅ | ✅ | ❌ | ❌ |
-| **Crawler log analysis** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Answer Gap analysis** | ✅ | ✅ | ❌ | ❌ | Partial | ✅ (GEO audit) | ✅ (Action Center) | Partial | ✅ (recs) | ✅ | ✅ (topic cluster) | ❌ |
-| **Sentiment / narrative analysis** | ✅ (basic) | Partial | ❌ | ✅ (core feature) | Partial | ❌ | ✅ | ✅ | ✅ | Partial | ❌ | ✅ |
-| **Content optimization recommendations** | ✅ | ✅ (Agents) | ❌ | ❌ | ❌ | ✅ (recs, new) | ✅ (Action Center) | Partial | ✅ | ✅ | ❌ | ❌ |
-| **Content generation** | ✅ (5–30 art/mo) | ✅ (Agents) | ❌ | ❌ (roadmap) | ❌ | ❌ | ✅ (enterprise) | ❌ | ❌ | ✅ (10–20/mo) | ❌ | ❌ |
-| **Google Search Console integration** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ (native) | ✅ (native) |
-| **Server log / traffic attribution** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Entity/brand tracker** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Reddit monitoring** | ✅ | ❌ | ❌ | ❌ | ❌ | Partial | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **YouTube citation tracking** | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ (study) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Geographic/regional tracking** | ✅ | Partial | ✅ (115+ langs) | ✅ | Unknown | ❌ | ✅ | ✅ | Partial | ✅ (unlimited Pro+) | ✅ | ✅ |
-| **AI shopping tracking** | ✅ (ChatGPT) | ✅ (Shopping) | ❌ | ❌ | ✅ (Shopping Intel) | ❌ | ❌ | Partial | ❌ | ❌ | ❌ | ❌ |
-| **MCP / programmatic integration** | ✅ (Mar 2026) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
-| **White-label / Agency tier** | ✅ (custom tier) | ❌ | ❌ | ✅ ($500/mo agency) | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ (agency program) | ✅ | ✅ |
-| **Brand safety / hallucination detection** | ❌ | ❌ | ❌ | ✅ (core feature) | Partial | ❌ | ✅ (Blindspot) | ✅ (core feature) | ❌ | ❌ | ❌ | ❌ |
-| **Source influence analytics** | ❌ | ❌ | ❌ | ❌ | ✅ (core differentiator) | ❌ | Partial | ✅ (core) | ❌ | ❌ | ❌ | ❌ |
-| **Existing SEO platform integration** | ❌ | ✅ (Semrush nodes) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |
-| **Autonomous AI agents** | Partial | ✅ (Profound Agents) | ❌ | ❌ | ❌ | ❌ | ✅ (enterprise) | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **AXP / machine-readable parallel site** | ❌ | ❌ | ❌ | ✅ (AXP) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Feature | **Promptwatch** | **Profound** | **Peec AI** | **Scrunch AI** | **Evertune** | **Otterly AI** | **AthenaHQ** | **Bluefish AI** | **LLM Pulse** | **AIclicks** | **Vismore** | **Orchly** | **GrackerAI** | **Ahrefs Brand Radar** | **Semrush AI Toolkit** |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| **Brand mention tracking** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Share of voice vs. competitors** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Prompt/query volume data** | ✅ | ✅ | ✅ | Partial | ✅ | ✅ | ✅ (enterprise) | ❌ | ✅ | Partial | Partial | Partial | ✅ | ✅ | ✅ |
+| **Source/citation tracking** | ✅ | Partial | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ (core) | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
+| **Crawler log analysis** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **Answer Gap analysis** | ✅ | ✅ | ❌ | ❌ | Partial | ✅ (GEO audit) | ✅ (Action Center) | Partial | ✅ (recs) | ✅ | ✅ | ✅ (Action Center) | ✅ | ✅ (topic cluster) | ❌ |
+| **Sentiment / narrative analysis** | ✅ (basic) | Partial | ❌ | ✅ (core feature) | Partial | ❌ | ✅ | ✅ | ✅ | Partial | ❌ | ❌ | ✅ | ❌ | ✅ |
+| **Content optimization recommendations** | ✅ | ✅ (Agents) | ❌ | ❌ | ❌ | ✅ (recs, new) | ✅ (Action Center) | Partial | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
+| **Content generation** | ✅ (5–30 art/mo) | ✅ (Agents) | ❌ | ❌ (roadmap) | ❌ | ❌ | ✅ (enterprise) | ❌ | ❌ | ✅ (10–20/mo) | ❌ | ✅ (20–50/mo) | ✅ | ❌ | ❌ |
+| **Google Search Console integration** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ (native) | ✅ (native) |
+| **Server log / traffic attribution** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ (AI traffic) | ❌ | ❌ | ❌ |
+| **Entity/brand tracker** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Reddit monitoring** | ✅ | ❌ | ❌ | ❌ | ❌ | Partial | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **YouTube citation tracking** | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ (study) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **Geographic/regional tracking** | ✅ | Partial | ✅ (115+ langs) | ✅ | Unknown | ❌ | ✅ | ✅ | Partial | ✅ (unlimited Pro+) | ❌ | ❌ | ❌ | ✅ | ✅ |
+| **AI shopping tracking** | ✅ (ChatGPT) | ✅ (Shopping) | ❌ | ❌ | ✅ (Shopping Intel) | ❌ | ❌ | Partial | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| **MCP / programmatic integration** | ✅ (Mar 2026) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **White-label / Agency tier** | ✅ (custom tier) | ❌ | ❌ | ✅ ($500/mo agency) | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ (agency program) | ✅ (enterprise) | ✅ ($125/mo) | ❌ | ✅ | ✅ |
+| **Brand safety / hallucination detection** | ❌ | ❌ | ❌ | ✅ (core feature) | Partial | ❌ | ✅ (Blindspot) | ✅ (core feature) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **Source influence analytics** | ❌ | ❌ | ❌ | ❌ | ✅ (core differentiator) | ❌ | Partial | ✅ (core) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **Existing SEO platform integration** | ❌ | ✅ (Semrush nodes) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ (SEO+AEO combined) | ❌ | ✅ | ✅ |
+| **Autonomous AI agents** | Partial | ✅ (Profound Agents) | ❌ | ❌ | ❌ | ❌ | ✅ (enterprise) | ❌ | ❌ | ❌ | ❌ | ✅ (content agents) | ✅ (GEO Agents) | ❌ | ❌ |
+| **Direct content publishing** | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ (Reddit/Medium/LinkedIn) | ✅ (CMS publishing) | ❌ | ❌ | ❌ |
+| **AXP / machine-readable parallel site** | ❌ | ❌ | ❌ | ✅ (AXP) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 ---
 
@@ -69,8 +70,11 @@
 | **Bluefish AI** | None | $99–$299/month (Starter) | $299–$799/month (Growth) | Custom |
 | **LLM Pulse** | 14-day trial | €49/month (Starter, 40 prompts) | €99/month (Growth, 100 prompts) | Custom |
 | **AIclicks** | 3-day trial | $59/month (Starter, 30 prompts) | $189/month (Pro, 150 prompts) | Custom |
+| **Vismore** | 7-day trial | $99/month (Starter, 50 prompts) | $199/month (Pro, 100 prompts) | Custom |
+| **Orchly.ai** | 14-day trial | $49/month (Essential, 25 prompts) | $125/month (Pro, 100 prompts) | Custom |
+| **GrackerAI** | Free score analysis | $99/month (AI Visibility monitoring) | N/A | $3,500+/month (full GEO) |
 | **Ahrefs Brand Radar** | No | $199/month (base Ahrefs) | $399/month+ | Custom |
-| **Semrush AI Toolkit** | No | ~$99/month + Semrush sub | ~$350+/month + Semrush sub | Custom |
+| **Semrush AI Toolkit** | No | ~$99/month + Semrush sub | ~$350+/month + Semrush sub | Custom (Adobe acquisition pending) |
 
 ---
 
@@ -88,8 +92,11 @@
 | **Bluefish AI** | 2024 | Seed | ~$24M (Bloomberg Beta + others) | Small-mid | USA |
 | **LLM Pulse** | ~2024 | Bootstrapped | None (self-funded) | Small | Europe (Spain/EU) |
 | **AIclicks** | 2024 | Early-stage | Minimal | 2–9 | Vilnius, Lithuania |
+| **Vismore** | ~2025 | Bootstrapped/angel | Undisclosed | 2–5 | Unknown (EU/int'l) |
+| **Orchly.ai** | ~2025 | Bootstrapped | None | 1–5 | India |
+| **GrackerAI** | ~2024 | Early-stage | Undisclosed | ~5–20 | San Francisco, USA |
 | **Ahrefs** | 2010 | Private, profitable | Bootstrapped | 900+ | Singapore |
-| **Semrush** | 2008 | Public (SEMR) | Public ($400M+ ARR) | 1,000+ | Boston, USA |
+| **Semrush** | 2008 | Being acquired by Adobe | $1.9B Adobe acquisition (H1 2026 close) | 1,000+ | Boston, USA |
 
 ---
 
@@ -97,7 +104,7 @@
 
 | Tool | Primary Differentiation |
 |---|---|
-| **Promptwatch** | Crawler log analysis + Reddit/YouTube citation tracking + MCP integration + Google Search Console integration + Answer Gap analysis + agency/white-label tier |
+| **Promptwatch** | Crawler log analysis + Reddit/YouTube citation tracking + MCP integration + Google Search Console integration + Answer Gap analysis + Cloudflare integration + agency/white-label tier |
 | **Profound** | Market leader depth + Profound Agents (autonomous content creation) + Semrush integration + 10+ engine coverage + unicorn brand recognition |
 | **Peec AI** | Add-on LLM model pricing allows lowest base cost; strong competitor tracking |
 | **Scrunch AI** | AXP (parallel machine-readable site) + narrative/sentiment analysis + misinformation detection |
@@ -107,8 +114,11 @@
 | **Bluefish AI** | AI Brand Vault (metadata governance) + model-aware diagnostics + Fortune 500 brand safety focus |
 | **LLM Pulse** | Bootstrapped/no investor pressure + white-label + MCP integration + lowest EUR cost per prompt |
 | **AIclicks** | 10+ LLM coverage from entry tier + source intelligence + content creation in one workflow |
+| **Vismore** | Only AEO tool with one-click publishing to Reddit/Medium/LinkedIn; execution-first positioning |
+| **Orchly.ai** | Lowest price ($49/mo) for 7-engine AEO + SEO combined + auto-CMS publishing; budget segment |
+| **GrackerAI** | B2B SaaS/cybersecurity vertical specialist; programmatic GEO at enterprise scale; 6 engines monitored daily |
 | **Ahrefs Brand Radar** | 193M+ real search queries, broadest data set; integrated with full SEO platform |
-| **Semrush AI Toolkit** | Massive existing customer base; combined SEO + AEO + Profound integration nodes |
+| **Semrush AI Toolkit** | Being acquired by Adobe ($1.9B, H1 2026 close) — post-close: combined SEO+GEO+content inside Adobe Experience Cloud for Fortune 500 |
 
 ---
 
@@ -116,18 +126,23 @@
 
 1. **Category validation is now real:** G2's AI Search category grew +2,000% in one year. Profound achieved unicorn status ($1B, $155M raised). 94% of CMOs plan to increase AEO/GEO investment in 2026 (Conductor CMO survey). This is no longer speculative.
 
-2. **The execution gap is the key battleground in 2026:** Most tools started as dashboards. Profound Agents, Scrunch AXP, AthenaHQ Action Center, and Otterly's new Recommendations feature all represent attempts to close the "insight → action" gap. This is now the primary competitive axis.
+2. **Adobe acquiring Semrush ($1.9B) is the category-defining M&A event of 2026:** Adobe announced the acquisition in November 2025; closing H1 2026 pending regulatory approval. Post-close, Semrush's GEO/AEO features become part of Adobe Experience Cloud. This changes the distribution game: Fortune 500 CMOs who buy Adobe products could get AEO monitoring "included" in their existing contracts. Pure-play tools like Promptwatch need a clear "why not use Adobe/Semrush?" story for enterprise buyers.
 
-3. **Promptwatch's unique features are genuinely differentiated:** No other tool at scale offers crawler log analysis + Reddit citation tracking + YouTube citation tracking + MCP integration + GSC integration in one platform. These are real technical differentiators — but they need to be marketed more aggressively.
+3. **The execution gap is the key battleground in 2026:** Most tools started as dashboards. Profound Agents, Scrunch AXP, AthenaHQ Action Center, Otterly Recommendations, and Vismore's publishing workflow all represent attempts to close the "insight → action" gap. This is the primary competitive axis. Two new entrants (Vismore, Orchly) were *built* on this execution premise.
 
-4. **Pricing is being pressured from both ends:**
-   - Bottom: LLM Pulse (€49, bootstrapped), AIclicks ($59), Otterly (~$29) are commoditizing basic monitoring
+4. **Promptwatch's unique features are genuinely differentiated:** No other tool at scale offers crawler log analysis + Reddit citation tracking + YouTube citation tracking + MCP integration + GSC integration + Cloudflare integration in one platform. These are real technical differentiators — but they need to be marketed more aggressively.
+
+5. **Pricing is being pressured from multiple angles:**
+   - Bottom: Orchly ($49/mo for 7 engines + SEO), LLM Pulse (€49), AIclicks ($59), Otterly (~$29) are commoditizing basic monitoring
    - Top: Profound repriced to $99 (same as Promptwatch Essential) while offering more brand recognition
-   - Middle: Promptwatch's core positioning is under pressure from both sides simultaneously
+   - Middle: Vismore ($99/mo) and Promptwatch ($99/mo) now occupy the same price point with different value propositions
+   - Macro: Adobe/Semrush "bundling" could effectively make AEO free for existing Adobe customers
 
-5. **Agency/white-label is a real differentiator:** Of all tools in this comparison, only Promptwatch, LLM Pulse, Scrunch, and the horizontal SEO platforms (Ahrefs, Semrush) explicitly support white-label agency workflows. This is a moat worth defending.
+6. **Agency/white-label is a real differentiator:** Only Promptwatch, LLM Pulse, Scrunch, Orchly ($125/mo), and the horizontal SEO platforms explicitly support white-label agency workflows. This is a moat worth defending — Orchly is the new low-cost agency entrant.
 
-6. **AI shopping is becoming a major feature:** Both Profound (22.5M ChatGPT offers analyzed) and Evertune (Shopping Intelligence) launched major shopping tracking features in Q1 2026. Promptwatch has ChatGPT Shopping data — this feature should be front-and-center in product marketing.
+7. **Promptwatch cited as authoritative data source:** Reuters cited Promptwatch data in a Trustpilot earnings story (March 2026) — describing Promptwatch as the data provider for "fifth most-cited domain globally on ChatGPT in January." This is meaningful external credibility for the platform's data quality.
+
+8. **Vertical specialization is emerging:** GrackerAI (B2B SaaS/cybersecurity) is the first AEO tool to go deep on a specific vertical. Other tools may follow. Promptwatch should consider whether vertical landing pages or datasets could defend this segment.atGPT offers analyzed) and Evertune (Shopping Intelligence) launched major shopping tracking features in Q1 2026. Promptwatch has ChatGPT Shopping data — this feature should be front-and-center in product marketing.
 
 7. **MCP integration is a new emerging differentiator:** Promptwatch and LLM Pulse both launched MCP (Model Context Protocol) servers in Q1 2026, allowing developers to query AI visibility data directly from coding tools (Cursor, Claude Desktop). This is a developer-focused moat that most competitors haven't built yet.
 

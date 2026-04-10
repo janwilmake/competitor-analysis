@@ -1,15 +1,40 @@
 # New Entrants — AI Search Visibility / GEO / AEO Space
 
-*Last updated: 2026-04-10 (run 3)*
+*Last updated: 2026-04-10 (run 4)*
 
 This file tracks newly identified competitors not yet with a full profile in `competitors/`. Once researched sufficiently, move entries to `competitors/`.
 
 ---
 
-## Promoted to Full Profile This Run (April 2026)
+## Promoted to Full Profile This Run (April 2026 — Run 4)
+- **Vismore** → `competitors/vismore.md` ← PROMOTED
+- **Orchly.ai** → `competitors/orchly.md` ← PROMOTED
+- **GrackerAI** → `competitors/gracker-ai.md` ← PROMOTED
+
+## Previously Promoted (April 2026 — Run 3)
 - **LLM Pulse** → `competitors/llm-pulse.md` ← PROMOTED
 - **Bluefish AI** → `competitors/bluefish-ai.md` ← PROMOTED
 - **AIclicks** → `competitors/aiclicks.md` ← PROMOTED
+
+---
+
+---
+
+## Surfer SEO AI Tracker
+**Website:** https://surferseo.com  
+**Pricing:** Add-on to Surfer plans: $95/month (25 prompts), $195/month (100 prompts), $495/month (300 prompts)  
+**What it does:** AI visibility tracking add-on within Surfer SEO's content optimization platform. Monitors brand/topic mentions in ChatGPT, Google AI Overviews, and Perplexity. Acquired by Positive Group (European SaaS) in October 2025. Content team at Surfer's base subscription ($99/month for Standard) is strong; AI Tracker is layered on top. Not a dedicated AEO platform — it's an SEO tool that added AI tracking.  
+**Threat level:** LOW-MODERATE. AI Tracker is expensive per-prompt ($3.80/prompt at base vs. Promptwatch's $1.98/prompt on Essential). Distribution risk: Surfer has 12,000+ customers and 150,000+ users — even a fraction adopting AI Tracker instead of evaluating standalone tools is meaningful. Conductor listed Surfer as #8 in their "Top 10 AEO tools" roundup. Surfer was also added to Semrush's Conductor-authored list, suggesting some ecosystem cross-linking.  
+**Status:** Active and growing. Needs profile page if AI Tracker feature grows in prominence.
+
+---
+
+## Searchable
+**Website:** Unknown (Promptwatch has a "vs Searchable" comparison page)  
+**Pricing:** Unknown  
+**What it does:** AI visibility tracking tool. Promptwatch's comparison page describes Searchable as "ChatGPT-only tracking" — implying it only covers one AI platform. Promptwatch positions itself vs. Searchable on multi-platform coverage, crawler logs, visitor analytics, Reddit insights, and YouTube tracking.  
+**Threat level:** LOW. If Searchable is ChatGPT-only as Promptwatch claims, it has a significant coverage gap. However, its existence on a Promptwatch comparison page means Promptwatch perceives it as relevant enough to counter.  
+**Status:** Needs dedicated research to confirm features and pricing.
 
 ---
 
@@ -93,13 +118,7 @@ This file tracks newly identified competitors not yet with a full profile in `co
 
 ---
 
-## Vismore
-**Website:** Unknown  
-**What it does:** Action-oriented AEO tool that focuses on "how to increase visibility this week" rather than reporting. Integrates content creation workflows with monitoring. Described as "Turn AEO Into Action. Not Just Analytics." Appeared in Reddit r/DigitalMarketing thread as a top-2 pick alongside Profound (February 2026).  
-**Threat level:** MODERATE if product works as described. Execution-gap in the AEO market is real; several buyers cite existing tools as dashboards without action steps.  
-**Status:** Very limited public information; needs dedicated research.
 
----
 
 ## Quattr
 **Website:** https://www.quattr.com  
