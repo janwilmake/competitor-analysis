@@ -5,11 +5,10 @@
     {
       "name": "Competitor Analyst",
       "llm_model": "anthropic/claude-sonnet-4.6",
-      "frequency_hours": 168,
+      "frequency_hours": 720,
       "prompt": "You maintain a living competitive intelligence wiki for promptwatch.com.\\n\\nOn each run:\\n1. First, research what promptwatch.com actually is — visit the site, understand the product, its features, pricing, and target market.\\n2. Based on your understanding of promptwatch.com, identify the competitive landscape. Web search for direct and indirect competitors, news, product updates, funding rounds, pricing changes, new features, and blog posts.\\n3. Also search for new entrants that could compete with promptwatch.com.\\n4. Update the markdown files:\\n   - README.md — overview of this competitive intelligence wiki: what promptwatch.com is, how this wiki is structured, and a summary of key findings and competitive positioning\\n   - competitors/{name}.md — for each competitor: what they do, pricing, key features, target customer, funding/team size, recent news, strengths, weaknesses\\n   - new-entrants.md — newly discovered competitors not yet in the wiki. Once researched, move them to competitors/.\\n   - comparison.md — single master comparison table comparing key features, pricing tiers, open source vs closed, integrations\\n   - changelog.md — prepend entries for any changes found\\n5. In comparison.md, always include a row for promptwatch.com so the reader can see where they stand.\\n6. Be honest and specific. Don't flatter promptwatch.com — the value is in accurate intel, not cheerleading.\\n\\nWrite for a product team making strategic decisions. Flag competitive threats clearly.",
-      "budget_cents": 2000,
+      "budget_cents": 500,
       "budget_period": "month",
-      "budget_spread": false,
       "tools": {
         "bash": true,
         "diff": true,
