@@ -1,11 +1,11 @@
-# Semrush — AI Toolkit (AEO/GEO Add-on)
+# Semrush — AI Toolkit (AEO/GEO Add-on, now Adobe company)
 
 ## Overview
 **Website:** https://www.semrush.com  
 **Category:** SEO Platform with AI Visibility Toolkit  
 **Founded:** 2008  
 **HQ:** Boston, MA, USA  
-**Status:** Acquired by Adobe (definitive agreement Nov 2025; closing H1 2026; ~$1.9B deal)
+**Status:** ⚠️ **Acquired by Adobe — deal closed April 28, 2026** (~$1.9B, all-cash at $12/share)
 
 Semrush is one of the world's largest SEO and digital marketing platforms. In 2025–2026, it launched an **AI Toolkit** add-on for tracking AI search visibility and Answer Engine Optimization. Like Ahrefs Brand Radar, its AEO features are an extension of a massive existing platform.
 
@@ -28,13 +28,15 @@ SEO teams, digital marketing agencies, enterprise brand teams already using Semr
 - ~1,000+ employees
 - Very large distribution through existing customer base
 
-## Recent News (as of April 2026)
-- **November 2025:** Adobe announced acquisition of Semrush for ~$1.9B ($12/share, all-cash). Deal expected to close H1 2026 pending regulatory approval and stockholder vote. Adobe framed the acquisition as owning both content creation (Adobe) AND brand discovery (Semrush) in the AI era.
+## Recent News (as of May 2026)
+- **April 28, 2026: ACQUISITION COMPLETE.** Adobe officially closed its $1.9B acquisition of Semrush. Semrush is now a wholly owned Adobe subsidiary. Adobe announced this as a cornerstone of "Adobe CX Enterprise" — a new end-to-end agentic AI system covering SEO, GEO (Generative Engine Optimization), and **ASO (Agentic Search Optimization)**, a new term Adobe is using to describe optimization for AI agents that act autonomously on behalf of users.
+- **April 28, 2026:** Adobe data cited that AI traffic to U.S. retail sites increased **269% year over year** (March 2026) — the business case for the acquisition in one number.
+- **April 20, 2026:** Semrush unveiled a "Brand Visibility Framework" at Adobe Summit — new CMO-level research positioning the combined company's strategy.
+- **March 2026:** Semrush launched a new brand identity: "Semrush, an Adobe company" with updated positioning around "commanding the AI search era."
+- **March 2026:** Profound × Semrush integration nodes embed Profound data inside Semrush Agents — a partnership that enhances both platforms.
 - **Surfer SEO** (which added an AI Tracker add-on) was separately acquired by Positive Group (a European SaaS company) in October 2025 — not by Semrush.
-- AI Toolkit cited in multiple "best AEO tools 2026" roundups, including Conductor's "Top 10 AEO Tools" (#2 pick after Conductor itself)
-- Profound × Semrush integration nodes (March 2026) embed Profound data inside Semrush Agents — a partnership that enhances both platforms simultaneously
-- Mentioned alongside Profound as early-stage AEO measurement option in eMarketer's Q2 2026 FAQ
-- Adobe is positioning the combined Semrush + Adobe LLM Optimizer + Brand Concierge as a single enterprise brand visibility suite post-close
+- AI Toolkit cited in multiple "best AEO tools 2026" roundups; now integrates with broader Adobe ecosystem.
+- Adobe also integrates with OpenAI Ads Manager (launched May 2026), making Semrush/Adobe a participant in ChatGPT paid advertising alongside WPP, Dentsu, Omnicom, Publicis, and StackAdapt.
 
 ## Strengths
 - Massive existing customer base — default choice for any Semrush user evaluating AEO tools
@@ -50,9 +52,11 @@ SEO teams, digital marketing agencies, enterprise brand teams already using Semr
 - Innovation speed in AI features slower than startups
 
 ## Competitive Threat to Promptwatch
-**HIGH and ESCALATING** due to Adobe acquisition. Post-close, Semrush becomes the SEO/GEO arm of Adobe's $5B+ digital experience cloud, giving it:
-- Distribution into Fortune 500 CMO budgets via Adobe Experience Cloud
-- Integration with Adobe Analytics, AEM, and the new Adobe Brand Concierge
-- Legitimate AEO + traditional SEO + AI content creation in one procurement decision
+**HIGH and STRUCTURAL** — deal now closed. Semrush is now the SEO/GEO arm of Adobe's digital experience cloud, giving it:
+- Distribution into Fortune 500 CMO budgets via Adobe Experience Cloud contracts
+- Integration with Adobe Analytics, AEM, and the new "Adobe CX Enterprise" agentic AI suite
+- AEO + traditional SEO + AI content creation in one procurement decision
+- New "ASO" (Agentic Search Optimization) framing — first-mover naming in agentic-era optimization
+- Participation in OpenAI Ads Manager as an official technology partner
 
-This is the most dangerous long-term structural threat to mid-market pure-play AEO tools. If Adobe bundles Semrush's GEO features into Adobe Experience Cloud contracts, standalone tools lose a round of evaluation entirely. Promptwatch must develop a clear "why not just use Semrush/Adobe?" story.
+The acquisition is closed — the threat is now operational, not theoretical. Adobe is actively selling "SEO + GEO + ASO in one system" to enterprise CMOs. For Promptwatch's target mid-market segment ($99–$579/mo), the question becomes: "Can a small Amsterdam startup win evaluations against Adobe?" In most Fortune 500 procurement processes, the answer will be no by default. Promptwatch needs to own the spaces where Adobe's scale is a disadvantage: speed, specificity (crawler logs, Reddit, YouTube), and agency workflows.

@@ -2,59 +2,88 @@
 
 ## Overview
 **Website:** https://peec.ai  
-**Category:** AI Search Visibility / AEO Monitoring  
-**Founded:** ~2024  
-**HQ:** Europe (Netherlands / Germany area based on pricing in EUR)  
-**Status:** Early-stage startup, active
+**Category:** AI Search Visibility / AEO Monitoring + Actions  
+**Founded:** February 2025 (launched; Antler Berlin Winter 2024 cohort)  
+**HQ:** Berlin, Germany  
+**Status:** ⚡ **Series A-funded — $29M total raised; 2,000+ customers; one of Europe's fastest-growing AI startups**
 
-Peec AI is a monitoring-layer AEO/GEO tool focused on tracking brand presence inside AI-generated answers. Positioned as an affordable, easy-to-onboard option especially for growing startups and mid-market teams. Priced in EUR, suggesting European focus.
+Peec AI is a high-growth Berlin-based AEO/GEO platform that went from $0 to $4M+ ARR in 10 months and raised $21M Series A in November 2025 (total $29M). It tracks brand visibility, sentiment, and position across 7 LLMs on standard paid plans, with an **Actions module** that converts visibility data into prioritized content, source, and citation gap recommendations. Growing at 300+ new customers per month. This is no longer a small startup — it is a well-funded European platform with serious enterprise ambitions.
 
 ## Key Features
-- **Prompt-level brand tracking** across ChatGPT, Perplexity, Claude, Gemini, and Google AI Overviews
-- **Competitor benchmarking:** Shows how often competitors appear vs. your brand in the same queries
-- **Share of Voice reporting:** Citation percentage vs. competitor set
-- **115+ language coverage** with IP-based geo filtering (from comparison sources)
-- **Daily monitoring** for configured prompts
+- **Visibility, Position, and Sentiment tracking** across ChatGPT, Google AI Overviews, Google AI Mode, Copilot, Perplexity, Gemini, and Grok on all paid plans
+- **Actions module:** Prioritized recommendations on content to create, sources to target, and citation gaps to close — included on every plan
+- **Project-level LLM selection and prompt allocation** — agencies can configure per-client without contacting support
+- **Free pitch workspaces** on all agency plans — track prospects outside paid quota
+- **Unlimited users** on all plans; no per-seat costs
+- **Source type classification** per mention: UGC, editorial, competitor, informational, reference
+- **Multi-country tracking** via dedicated infrastructure (no prompt injection)
+- **Google Search Console + Analytics integrations** on Advanced/Agency plans
+- **Looker Studio integration** on Advanced plans
+- **MCP server integration** (April 2026) — allows live data access from Claude, Cursor, and VS Code
+- **115+ language coverage** with IP-based geo filtering
+- **Competitor benchmarking:** Share of voice vs. competitor set
+- **Daily monitoring** on higher plans; weekly on entry
 
-## Pricing (updated April 2026)
-- **Starter:** $99/month, 25 prompts — ChatGPT, Perplexity, Google AI Overviews included; 2,250 AI answers; unlimited seats. Additional LLMs (Gemini, AI Mode, Claude, DeepSeek, Llama, Grok) available at extra fee.
-- **Pro:** $212/month, 100 prompts — adds Slack support; ~15% yearly discount available
-- **Enterprise:** $530+/month, 300+ prompts
-- Free trial available
-- *Note: Pricing previously listed in EUR (€89/€199); now showing USD ($99/$212) — likely reflects US market expansion or currency normalization*
-- Note: Zapier's 2026 review cites Peec as "notably lacking actionable insights, trend data, and AI crawler visibility insights"
+## Pricing (as of May 2026)
+### Brand Plans
+| Plan | Price | Prompts | Notes |
+|---|---|---|---|
+| Starter | $95/mo | 50 prompts | 1 project, 7 LLMs, unlimited users |
+| Pro | $245/mo | 150 prompts | 2 projects |
+| Advanced | $495/mo | 350 prompts | 5 projects, Looker/GA/GSC integrations |
+| Enterprise | Custom | Custom | All models, unlimited projects, API, SSO |
+
+### Agency Plans
+| Plan | Price | Credits | Projects |
+|---|---|---|---|
+| Essential | $245/mo | 10,000 credits | 3 projects, 3 pitch projects |
+| Growth | $495/mo | 25,000 credits | 10 projects |
+| Scale | $795/mo | 65,000 credits | 25 projects |
+| Enterprise | Custom | Custom | Unlimited, SSO, API |
+
+*7-day free trial available. Annual discount applies (~15-20%). Pricing in EUR also available (€75–€169/mo from TechCrunch November 2025 report; may have been adjusted post-Series A).*
 
 ## Target Customer
-Growing startups, mid-market teams, agencies looking for affordable, competitive AEO tracking without enterprise complexity.
+Marketing and SEO teams at growth-stage companies, agencies managing multiple clients, eCommerce, SaaS, media, and consumer brands. Key customers: Wix, HomeToGo, Glide, n8n, Attio, ElevenLabs, Chanel, TUI. Growing in US market (New York office planned).
 
 ## Funding & Team
-- Small team; funding details not public
-- EU-based startup in early growth phase
+- **Seed (Antler):** Part of Antler Berlin Winter 2024 cohort
+- **Seed Round:** €7M (July 2025, led by 20VC; with Antler, Combination VC, identity.vc, S20) — covered by TechCrunch/EU-Startups
+- **Series A:** $21M (November 2025, led by Singular; with Antler, Combination VC, identity.vc, S20)
+- **Total raised:** $29M — one of the largest Series A rounds in AI search to date
+- **Valuation:** >$100M (tripled at Series A per CEO Marius Meiners)
+- **ARR:** $4M+ (10 months post-launch, November 2025); targeting $20M+ ARR end of 2026 (CEO stated goal)
+- **Customers:** 1,300+ at Series A (Nov 2025); 2,000+ as of Q1 2026; adding 300+/month
+- **Team:** Hiring 40+ over 6 months post-Series A; opening New York office
+- **Founders:** Marius Meiners (CEO), Tobias Siwonia, Daniel Drabo — all from Antler's Berlin cohort
 
-## Integrations
-- ChatGPT
-- Perplexity
-- Claude
-- Gemini
-- Google AI Overviews
-
-## Recent News (as of April 2026)
-- Increasingly mentioned alongside Profound and Promptwatch in buyer comparison discussions
-- Featured in multiple "alternatives to Profound" and "best AEO tools" lists in Q1 2026
-- No major product launches or funding announcements found
+## Recent News (as of May 2026)
+- **November 2025:** $21M Series A announced — covered by TechCrunch: "As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt"
+- **April 2026:** MCP server integration launched — live data access from Claude, Cursor, VS Code (matches Promptwatch's March 2026 MCP launch, launched weeks later)
+- **April 2026:** 2,000+ marketing teams confirmed
+- **April 2026:** Named #1 "Best GEO Platform for SEO Agencies" by multiple roundups (Muddy River News, April 2026 agency guide)
+- **January 2026:** Published "AI Search Expert Report 2026" with 12 leading experts
+- **July 2025:** $7M Seed round; $0 to $4M ARR trajectory begins
+- Growing at 300+ new customers per month as of November 2025
 
 ## Strengths
-- Lowest price point in the category (€89/month)
-- Strong competitor tracking focus
-- Simple mental model: configure prompts, see if you appear, see where competitors appear
-- Fast onboarding
+- **Best-designed dashboard** in category — universally praised in reviews for simplicity and clarity
+- **$29M raised** — significantly more funded than Promptwatch ($1.2M); can afford aggressive product development, sales, and marketing
+- **Actions module on every plan** — executes recommendations without extra cost, which competing agency tools often gate behind higher tiers
+- **Unlimited users on all plans** — a real differentiator for agency workflows
+- **Free pitch workspaces** — unique agency feature that allows showing client value before billing
+- **Growing distribution** — targeting US market with New York office; already trusted by EU enterprise names
+- **MCP integration** (April 2026) — matches Promptwatch's developer-access capability
+- Strong velocity: $4M ARR in 10 months from launch is exceptional
 
 ## Weaknesses
-- Limited backend or log analysis (no server log / crawler analysis)
-- No execution features — purely monitoring
-- Multi-engine consistency at enterprise scale can be limiting
-- Less brand recognition than Profound or Promptwatch in most buyer journeys
-- Does not analyze how a brand is framed (sentiment/narrative depth is limited)
+- **Add-on LLM model pricing** on lower plans (base includes 7 LLMs on paid, but Claude is listed as add-on in some sources — verify against current pricing page)
+- **No crawler log analysis** — the one technical feature Promptwatch has uniquely (no competitor has this)
+- **No Reddit or YouTube citation tracking** — Promptwatch differentiators
+- **No content generation** — Peec stops at recommendations, Promptwatch generates articles
+- **No GSC integration on lower plans** — higher plans required
+- **Profound comparison** (Profound blog, April 2026) notes Peec's prompt volume scores are derived from clickstream/external signals, not a proprietary dataset of real AI conversations — may be a data quality gap
+- VC pressure: Heavy funding may lead to enterprise pivoting and pricing increases over time
 
 ## Competitive Threat to Promptwatch
-**MODERATE.** Peec is the lower-cost alternative in the same monitoring category. It poses a threat for price-sensitive buyers who don't need Promptwatch's source analysis or crawler insights. Often appears in the same shortlists as Promptwatch.
+**HIGH and UPGRADED.** Peec AI was previously rated MODERATE because it was a small startup. With $29M raised (25x Promptwatch's funding), a $100M+ valuation, 2,000+ customers, and 300+ new customers per month, Peec is now a serious competitive force. The Actions module + unlimited users + agency pitch workspaces directly compete with Promptwatch's agency segment. Peec's MCP integration (April 2026) removes one of Promptwatch's key technical differentiators. The main remaining Promptwatch advantages are: crawler log analysis, Reddit/YouTube tracking, content generation, and the 1B+ citation dataset. Peec's funding allows them to potentially build these features within 6-12 months if they choose to prioritize them.

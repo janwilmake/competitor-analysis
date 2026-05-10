@@ -1,6 +1,6 @@
 # AI Search Visibility / AEO / GEO — Master Comparison Table
 
-*Last updated: 2026-04-10 (run 4)*
+*Last updated: 2026-05-10 (run 5)*
 
 > **Context:** Promptwatch.com is an **AI Search Visibility platform** (also called AEO — Answer Engine Optimization, or GEO — Generative Engine Optimization). It helps brands track and optimize how they appear inside AI-generated responses from ChatGPT, Gemini, Claude, Perplexity, and Google AI Overviews. This is a *marketing* tool, not a developer observability tool.
 
@@ -62,7 +62,7 @@
 |---|---|---|---|---|
 | **Promptwatch** | 7-day trial | $99/month (Essential, 50 prompts) | $249/month (Professional, 150 prompts) | Custom |
 | **Profound** | None | $99/month (Starter, ChatGPT only) | $399/month (Growth, 3 engines) | Custom |
-| **Peec AI** | Trial available | $99/month (Starter, 25 prompts) | $212/month (Pro, 100 prompts) | $530+/month |
+| **Peec AI** | 7-day trial | $95/month (Starter, 50 prompts) | $245/month (Pro, 150 prompts) | $495+/month |
 | **Scrunch AI** | None confirmed | $250/month (Core) | $500/month (Agency Core) | Custom |
 | **Evertune** | None | $3,000/month | Custom | Custom |
 | **Otterly AI** | ❌ | ~$29/month (entry) | ~$189/month (Standard) | Unknown |
@@ -84,7 +84,7 @@
 |---|---|---|---|---|---|
 | **Promptwatch** | 2025 | Seed-funded | $1.2M seed (Arches Capital, Sep 2025) | ~10–20 | Amsterdam, NL |
 | **Profound** | 2024 | VC unicorn ($1B) | $155M total (Series C, Lightspeed) | ~150 | New York, USA |
-| **Peec AI** | ~2024 | Early-stage | Undisclosed | Very small | Europe |
+| **Peec AI** | 2025 | Series A ($100M+ val.) | $29M total (20VC seed Jul 2025; Singular Series A Nov 2025) | 40–80 (hiring) | Berlin, DE |
 | **Scrunch AI** | ~2023/2024 | Series A | $26M total (Decibel, Mayfield) | 30–50 | Salt Lake City, USA |
 | **Evertune** | 2024 | Series A | $20M (Felicis Ventures) | 40+ | New York, USA |
 | **Otterly AI** | 2023 | Bootstrapped | Minimal/none | 11–50 | Persenbeug, Austria |
@@ -96,7 +96,7 @@
 | **Orchly.ai** | ~2025 | Bootstrapped | None | 1–5 | India |
 | **GrackerAI** | ~2024 | Early-stage | Undisclosed | ~5–20 | San Francisco, USA |
 | **Ahrefs** | 2010 | Private, profitable | Bootstrapped | 900+ | Singapore |
-| **Semrush** | 2008 | Being acquired by Adobe | $1.9B Adobe acquisition (H1 2026 close) | 1,000+ | Boston, USA |
+| **Semrush** | 2008 | ✅ Adobe subsidiary (closed Apr 28, 2026) | $1.9B Adobe acquisition (closed Apr 28, 2026) | 1,000+ | Boston, USA (now Adobe company) |
 
 ---
 
@@ -106,7 +106,7 @@
 |---|---|
 | **Promptwatch** | Crawler log analysis + Reddit/YouTube citation tracking + MCP integration + Google Search Console integration + Answer Gap analysis + Cloudflare integration + agency/white-label tier |
 | **Profound** | Market leader depth + Profound Agents (autonomous content creation) + Semrush integration + 10+ engine coverage + unicorn brand recognition |
-| **Peec AI** | Add-on LLM model pricing allows lowest base cost; strong competitor tracking |
+| **Peec AI** | $29M funded, $100M+ valuation; Actions module + unlimited users + free agency pitch workspaces on all plans; 7 LLMs on standard plans; MCP integration (Apr 2026); fastest-growing EU AEO platform |
 | **Scrunch AI** | AXP (parallel machine-readable site) + narrative/sentiment analysis + misinformation detection |
 | **Evertune** | Source influence analytics + 1M+ prompts/brand/month + statistical rigor + Shopping Intelligence |
 | **Otterly AI** | 20,000+ users, G2 Rookie of the Year + GEO audit + original citation research publishing |
@@ -118,15 +118,15 @@
 | **Orchly.ai** | Lowest price ($49/mo) for 7-engine AEO + SEO combined + auto-CMS publishing; budget segment |
 | **GrackerAI** | B2B SaaS/cybersecurity vertical specialist; programmatic GEO at enterprise scale; 6 engines monitored daily |
 | **Ahrefs Brand Radar** | 193M+ real search queries, broadest data set; integrated with full SEO platform |
-| **Semrush AI Toolkit** | Being acquired by Adobe ($1.9B, H1 2026 close) — post-close: combined SEO+GEO+content inside Adobe Experience Cloud for Fortune 500 |
+| **Semrush AI Toolkit** | ✅ **Adobe acquisition completed April 28, 2026** — now part of Adobe CX Enterprise; adds "ASO" (Agentic Search Optimization) to SEO+GEO stack; OfficialOpenAI Ads Manager partner; distribution to 28M+ users |
 
 ---
 
-## Market Context Notes (April 2026)
+## Market Context Notes (May 2026)
 
-1. **Category validation is now real:** G2's AI Search category grew +2,000% in one year. Profound achieved unicorn status ($1B, $155M raised). 94% of CMOs plan to increase AEO/GEO investment in 2026 (Conductor CMO survey). This is no longer speculative.
+1. **Category validation is now real:** G2's AI Search category grew +2,000% in one year. Profound achieved unicorn status ($1B, $155M raised). 94% of CMOs plan to increase AEO/GEO investment in 2026 (Conductor CMO survey). AI traffic to US retail sites up 269% YoY (Adobe, March 2026).
 
-2. **Adobe acquiring Semrush ($1.9B) is the category-defining M&A event of 2026:** Adobe announced the acquisition in November 2025; closing H1 2026 pending regulatory approval. Post-close, Semrush's GEO/AEO features become part of Adobe Experience Cloud. This changes the distribution game: Fortune 500 CMOs who buy Adobe products could get AEO monitoring "included" in their existing contracts. Pure-play tools like Promptwatch need a clear "why not use Adobe/Semrush?" story for enterprise buyers.
+2. **Adobe + Semrush acquisition CLOSED April 28, 2026 — operational threat begins now:** The deal is done. Adobe is marketing "Adobe CX Enterprise" with SEO + GEO + ASO (Agentic Search Optimization) as one bundled enterprise offering. Adobe is now also an official OpenAI Ads Manager technology partner. For pure-play AEO tools like Promptwatch, the threat is now active: Fortune 500 CMOs running Adobe Experience Cloud will see AEO as a feature of their existing contract, not a standalone procurement decision. Promptwatch needs a "why not just use Adobe?" answer.
 
 3. **The execution gap is the key battleground in 2026:** Most tools started as dashboards. Profound Agents, Scrunch AXP, AthenaHQ Action Center, Otterly Recommendations, and Vismore's publishing workflow all represent attempts to close the "insight → action" gap. This is the primary competitive axis. Two new entrants (Vismore, Orchly) were *built* on this execution premise.
 

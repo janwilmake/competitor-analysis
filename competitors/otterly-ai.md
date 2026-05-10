@@ -36,15 +36,16 @@ Solo marketers, small business owners, agencies managing SME clients. Buyers who
 ## Integrations
 - 6 AI engines (exact list not fully confirmed; includes major platforms)
 
-## Recent News (as of April 2026)
-- **February 2026:** Named to **G2's 2026 Best Software Awards — #10 Rookies of the Year** — only AEO platform in Top 10
-- **February 2026:** Surpassed **20,000 users** (up from 10,000+ mid-2025 noted in other sources)
-- **February 2026:** Published major citation research: "AI Search Engines Depend 95% on Third-Party Sources" (1M+ citations analyzed) — covered by GlobeNewswire, AiThority
+## Recent News (as of May 2026)
+- **Ongoing:** Semrush App Center integration confirmed — Otterly available within Semrush's App Center as "Otterly - AI Search Monitoring." Note: the in-Semrush version is a **reduced feature set** (covers 3 models: ChatGPT, Google AI Overviews, Perplexity) compared to the full platform (6 models). Historical tracking, competitor insights, and team export tools require the full Otterly web platform. This is an important distribution channel but may create confusion around feature depth.
+- **Gartner Cool Vendor 2025** — named in AI in Marketing category. Significant credibility signal.
+- **G2 Best Software Rookies of the Year 2026** — only AEO platform in Top 10
+- **February 2026:** Surpassed **20,000 users**
+- **February 2026:** Published major citation research: "AI Search Engines Depend 95% on Third-Party Sources" (1M+ citations analyzed) — covered by GlobeNewswire, AiThority. Key finding: brands represent 52.5% of all AI citations; news sites 20.3%; community forums 5.9%.
 - **February 2026:** Announced technology **partnership with Noble** to connect citation intelligence with targeted digital outreach execution
-- **March 2026:** Published **YouTube Citation Study 2026** (100M AI citations analyzed across 6 platforms) — YouTube #2 social platform for AI citations, covered by Yahoo Finance/GlobeNewswire
+- **March 2026:** Published **YouTube Citation Study 2026** (100M AI citations analyzed across 6 platforms) — YouTube is #2 social platform for AI citations
 - **March 2026:** Launched **Recommendations feature** — translates monitoring data into prioritized optimization actions
-- Semrush partnership details expected (flagged in December 2024 TechCrunch article)
-- Confirmed bootstrapped with incubator support from GroWTF (Schremser's incubator); no external VC funding planned
+- Confirmed bootstrapped with incubator support from GroWTF (Schremser's incubator); no external VC funding
 
 ## Strengths
 - GEO audit feature is a useful differentiator — tells users *why* they aren't getting cited, not just *that* they aren't
