@@ -46,6 +46,9 @@ Mid-market to enterprise marketing teams (AEO teams, content teams, PR/brand tea
 
 ## Recent News (as of May 2026)
 - **May 7, 2026:** Launched **share Custom Dashboards with public links** — real-time Profound dashboards shareable with anyone
+- **June 5, 2026:** Launched **Documents in Profound** — a native document workspace inside the platform. Marketers can now draft, store, and act on brand documents (strategy docs, product briefs, messaging guides) directly inside Profound, alongside their visibility data and agents.
+- **June 11, 2026:** **Zero Click NYC** event confirmed — second leg of the "Zero Click 2026" conference series (SF leg previously completed). Cementing Profound as the category thought-leadership brand.
+- **May 7, 2026:** Launched **shareable public dashboard links** — Profound dashboards can now be shared externally via public link (stakeholder reporting, agency use cases)
 - **May 6, 2026:** Launched **OpenAI Ads nodes for Profound Agents** — same day OpenAI launched its self-serve ChatGPT Ads Manager (significant speed-to-market advantage). Agents can now pull OpenAI Ads performance data (CTR, CPC, impression volume) directly into automated monitoring and alerting workflows
 - **May 5, 2026:** **Google Drive + Notion integrations for Knowledge Base** — Agents can now pull brand voice, product docs, and messaging guidelines directly from Google Drive and Notion
 - **April 2026:** Team count updated to **165 employees** (per PitchBook); previously cited as ~120 (February 2026 Fortune article)

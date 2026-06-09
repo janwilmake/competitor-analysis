@@ -1,13 +1,16 @@
 # New Entrants — AI Search Visibility / GEO / AEO Space
 
-*Last updated: 2026-05-10 (run 5)*
+*Last updated: 2026-06-09 (run 6)*
 
 This file tracks newly identified competitors not yet with a full profile in `competitors/`. Once researched sufficiently, move entries to `competitors/`.
 
 ---
 
-## Promoted to Full Profile This Run (May 2026 — Run 5)
-*No new promotions this run — new entrants documented below, research needed before promotion.*
+## Promoted to Full Profile This Run (June 2026 — Run 6)
+- **HubSpot AEO** → `competitors/hubspot-aeo.md` ← PROMOTED (major new entrant; $50/month; 238,000+ customer base; launched April 14, 2026)
+
+## Promoted to Full Profile Previously (May 2026 — Run 5)
+*No promotions during run 5.*
 
 ## Promoted to Full Profile Previously (April 2026 — Run 4)
 - **Vismore** → `competitors/vismore.md` ← PROMOTED
@@ -20,6 +23,47 @@ This file tracks newly identified competitors not yet with a full profile in `co
 - **AIclicks** → `competitors/aiclicks.md` ← PROMOTED
 
 ---
+
+---
+
+## NEW ENTRANTS — Discovered June 2026
+
+---
+
+## AirOps
+**Website:** https://www.airops.com  
+**Pricing:** Custom (approx $2,000/month cited in LinkedIn comparisons); demo required  
+**Founded:** ~2022 (originally AI content workflows; pivoted to include AEO)  
+**Funding:** $60M total ($40M Series B, November 2025); HQ: Miami, FL  
+**What it does:** Content engineering platform that has expanded into GEO. Combines AI visibility tracking (monitoring prompts and citations) with full content workflow automation — brief generation, drafting, CMS publishing, brand kit management, and multi-tool integrations (Semrush, Ahrefs, BigQuery, Webflow, WordPress, Contentful). Core differentiator: "insight-to-action" content workflows that automate the entire pipeline from gap identification to published page. Covers 10+ AI engines. Integrates with Peec AI, Profound, and SEO tools.  
+**Key differentiators:** 30+ CMS integrations; data warehouse connections (BigQuery, Snowflake); AirOps Power Agents (pre-built workflow components); GRID for bulk content management; team collaboration built-in. $60M funding is substantial.  
+**Threat level:** MODERATE. Primarily targets content/SEO teams rather than pure AEO monitoring buyers. Too expensive for Promptwatch's core mid-market (approx $2K+/month), but competes for the agency/enterprise segment with an execution-first pitch. Well-funded. Published extensive "Peec AI alternatives" and "Profound alternatives" content, inserting themselves into AEO category conversations.  
+**Status:** Active and growing. Listed in Evertune's Top 15 GEO Platforms (June 2026, rank #6). Needs dedicated profile if AEO monitoring depth increases.
+
+---
+
+## Qwairy
+**Website:** https://qwairy.co  
+**Pricing:** €49+/month (~$57/month); free trial with 100 credits, no credit card  
+**Founded:** ~2025  
+**Funding:** Undisclosed (appears bootstrapped or early angel)  
+**What it does:** GEO platform combining brand visibility monitoring across 10+ AI engines with concrete, prioritized recommendations. Differentiators: built-in GEO strategy chat for real-time personalized guidance (only tool with this feature), native MCP integration (connects GEO data into Claude and other AI tools), unlimited team members on all plans.  
+**Key differentiators:** MCP integration at entry price ($57/mo) — pricing is sharply competitive with Promptwatch. "GEO strategy chat" is unique. Unlimited team members removes seat-cost friction.  
+**Threat level:** LOW-MODERATE. Too early to assess market traction. The MCP integration at a sub-$60 entry price is notable — if proven, it directly undercuts Promptwatch's technical differentiation at a much lower price point. Appeared in AirOps' "Peec alternatives" article (June 2026) as a standalone recommendation, suggesting it has enough visibility to be named in category roundups.  
+**Status:** Needs dedicated research to confirm data quality, AI engine coverage, and market traction.
+
+---
+
+## Rankscale AI
+**Website:** Unknown  
+**Pricing:** Credit-based (flexible monitoring schedules from daily to hourly); affordable entry  
+**Founded:** ~2024  
+**Funding:** Bootstrapped  
+**HQ:** Königstetten, Austria  
+**What it does:** Daily AI visibility tracking with 17+ AI engine coverage (broadest in category per AIclicks' review in June 2026) — includes ChatGPT, Perplexity, Claude, Gemini, AI Overviews, AI Mode, DeepSeek, Grok, Copilot, Mistral, and more. AI Rank Tracker with visibility scoring, share of voice, citations, and historical trends. Page Audits evaluating 200+ AI-readiness factors per URL. Prompt Research that estimates prompt search volume via semantic reconstruction. Credit-based pricing model with flexible monitoring schedules (daily to hourly).  
+**Key differentiators:** 17+ AI engines — the widest coverage of any tool cited in June 2026 roundups. Flexible credit-based pricing for variable agency volumes. 240+ regions for geographic tracking.  
+**Threat level:** LOW-MODERATE. Founder-led, ships updates constantly (per AIclicks review). Dense UI, less polished. Monitoring-first, light on execution. The 17+ engine coverage is the primary differentiator — outranks Promptwatch's 9+ in raw coverage. Small operation but legitimate product.  
+**Status:** Listed in Evertune's Top 15 GEO Platforms (June 2026, rank #5). Should be promoted to full profile soon.
 
 ---
 

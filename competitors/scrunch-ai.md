@@ -5,9 +5,9 @@
 **Category:** AI Search Visibility / GEO Platform + Infrastructure  
 **Founded:** ~2024 (emerged from stealth November 2024)  
 **HQ:** Salt Lake City, UT, USA  
-**Status:** Series A-funded startup, active — pivoting from monitoring to "AI-native marketing infrastructure"
+**Status:** ⚠️ **ACQUIRED BY SITECORE — June 3, 2026 (price ~$225M per Bloomberg)** — now part of Sitecore's AI-powered Digital Experience Platform (DXP)
 
-Scrunch AI started as an AI search visibility monitoring tool but is now positioning itself as an **AI-native marketing infrastructure** company. Their key bet: brands need more than dashboards — they need a machine-readable version of their brand that AI crawlers can actually understand and cite. This is embodied in their **Agent Experience Platform (AXP)**, which creates a "parallel website" alongside a brand's human-facing site, optimized for how LLMs parse and return content.
+Scrunch AI started as an AI search visibility monitoring tool and pivoted to **AI-native marketing infrastructure**. Their key bet: brands need more than dashboards — they need a machine-readable version of their brand that AI crawlers can actually understand and cite. This is embodied in their **Agent Experience Platform (AXP)**, which creates a "parallel website" alongside a brand's human-facing site, optimized for how LLMs parse and return content. **Sitecore acquired Scrunch on June 3, 2026**, combining Scrunch's AEO insights and AXP with Sitecore's enterprise Digital Experience Platform to create a combined insight + execution layer for large brands.
 
 ## Key Features
 - **Monitoring & Insights:** Brand visibility tracking across 9 AI platforms (ChatGPT, Gemini, Perplexity, Claude, Meta AI, Google AI Mode, Google AI Overviews, Microsoft Copilot, DeepSeek)
@@ -46,17 +46,16 @@ Mid-market to enterprise brands (technology, retail, healthcare, education, fina
 | Agency Core | $500/month | Multi-client management |
 | Agency Enterprise | Custom | Full agency feature set |
 
-## Recent News (as of April 2026)
-- **April 2026:** Published **"7 Best AEO/GEO Tools for 2026"** ranking on Scrunch blog — named themselves #1 (obvious bias, but methodology is transparent and well-structured; useful competitive intelligence)
+## Recent News (as of June 2026)
+- **June 3, 2026:** ⚠️ **ACQUIRED BY SITECORE for ~$225M** (Bloomberg reporting). The acquisition combines Scrunch's AEO insights + AXP infrastructure with Sitecore's DXP (Digital Experience Platform). Sitecore has raised $1.23B in total funding. This is the second major AEO acquisition after Adobe/Semrush ($1.9B, closed April 28, 2026) — signaling that traditional enterprise CMS/DXP companies are buying AEO capabilities rather than building them. Deal rationale: "brands must move from insight to action" — Scrunch's AXP-enabled pages showed **364% increase in brand presence for non-branded prompts** and **218% increase in citations** in a study with Akamai. Runpod saw 400% increase in paying customers from AI search optimization.
+- **G2 rating updated to 4.6/5 (72 reviews)** — review count grew from 55 (April 2026) to 72 by June 2026.
+- **June 2026 (self-published):** Scrunch published their own **"7 Best AEO/GEO Tools for 2026"** list, naming themselves #1. Useful competitive intelligence document (transparent methodology despite obvious bias).
 - **April 2026:** Published **Q1 2026 AI Search Industry Lookback** on LinkedIn
 - **July 2025:** $15M Series A announced — covered by Axios exclusively; led by Decibel
 - **July 2025:** Announced AXP (Agent Experience Platform) as new infrastructure layer for AI-native content delivery
 - **June 2025 (product update):** Launched AI Bot Traffic Monitoring (Cloudflare-first), expanded geo support, redesigned Prompt UI, domain-level analytics in Sources, Agency Brand Creation Tool
-- Growing at 50%+ month-over-month in paying customers during Q2 2025
 - Claims average customer sees 40% increase in referral traffic and up to 4x visibility improvement
 - Now tracking 9 AI platforms including Meta AI and Google AI Mode
-- Confirmed G2 rating: 4.6/5 (55 reviews) — strong and growing review base
-- Generate More non-competitive review: 3.9/5 (some criticism of complexity vs. results)
 
 ## Strengths
 - AXP is a genuinely novel technical approach — not just monitoring but infrastructure
@@ -73,5 +72,16 @@ Mid-market to enterprise brands (technology, retail, healthcare, education, fina
 - Narrative/hallucination detection features add complexity for simpler use cases
 - Less enterprise brand recognition than Profound at similar funding level
 
+## Funding & Acquisition Summary
+- **Seed:** $4M (Mayfield)
+- **Series A:** $15M (July 2025, Decibel; Mayfield, Homebrew, notable angels)
+- **Total raised:** $26M (pre-acquisition)
+- **Acquired by Sitecore:** June 3, 2026, ~$225M (per Bloomberg)
+- **Parent:** Sitecore ($1.23B total funding; Gartner Magic Quadrant Leader for Content Marketing Platforms 2026)
+
 ## Competitive Threat to Promptwatch
-**MODERATE-HIGH.** Scrunch's AXP infrastructure concept is a meaningful future differentiation — it's not just about tracking but actively shaping what AI ingests. The hallucination/misinformation detection is a feature Promptwatch lacks. At similar pricing, Scrunch competes directly for Promptwatch's mid-market buyers. The $26M total funding also gives them a substantial resource advantage. Watch AXP adoption carefully — if it resonates with buyers, it reframes the entire competitive category.
+**MODERATE-HIGH (and increasing post-acquisition).** The Sitecore acquisition dramatically changes Scrunch's competitive profile. Scrunch is no longer a $26M startup — it is now backed by Sitecore's $1.23B in enterprise DXP infrastructure and a large existing enterprise customer base. Sitecore markets Scrunch as the "insight + action" bridge: Scrunch provides AI search intelligence, Sitecore turns it into live content changes across all channels. This is a stronger execution story than Promptwatch's current "generate articles" workflow.
+
+**Specific threat:** Enterprise CMS buyers already using Sitecore will get AEO as a bundled capability, just as Adobe/Semrush customers get it through that bundle. The enterprise AEO market is being captured by DXP platform companies, not standalone tools. Promptwatch needs a clear answer to "why buy standalone when your DXP already includes it?"
+
+The AXP "parallel machine-readable website" remains philosophically controversial but the early performance data (364% non-branded brand presence increase, Akamai case study; 400% paying customer growth, Runpod case study) is hard to dismiss.

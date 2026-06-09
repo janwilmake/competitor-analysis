@@ -57,12 +57,16 @@ Marketing and SEO teams at growth-stage companies, agencies managing multiple cl
 - **Team:** Hiring 40+ over 6 months post-Series A; opening New York office
 - **Founders:** Marius Meiners (CEO), Tobias Siwonia, Daniel Drabo — all from Antler's Berlin cohort
 
-## Recent News (as of May 2026)
-- **November 2025:** $21M Series A announced — covered by TechCrunch: "As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt"
-- **April 2026:** MCP server integration launched — live data access from Claude, Cursor, VS Code (matches Promptwatch's March 2026 MCP launch, launched weeks later)
+## Recent News (as of June 2026)
+- **May 28, 2026:** Published research: "AI Overviews is the most undertracked AI search: 500,000 prompts show why" — ongoing content authority building
+- **May 20, 2026:** Published case study: "How Mint Position helps fintech clients unlock 16% more AI search visibility with Peec AI" — agency validation
+- **May 14, 2026:** Published "Listicle Rank Effect" research: 200K AI responses across 8 AI engines reveal brand visibility patterns
+- **May 5, 2026:** Published "Patterns we see in ChatGPT query fanouts" — thought leadership on prompt mechanics
+- **April 2026:** MCP server integration launched (Peec MCP) — live data access from Claude, Cursor, VS Code. Peec now has dedicated MCP page at peec.ai/mcp
 - **April 2026:** 2,000+ marketing teams confirmed
-- **April 2026:** Named #1 "Best GEO Platform for SEO Agencies" by multiple roundups (Muddy River News, April 2026 agency guide)
-- **January 2026:** Published "AI Search Expert Report 2026" with 12 leading experts
+- **April 2026:** Referral program launched
+- **March 31, 2026:** Published "Top domains cited by AI search" — analysis based on 30M sources
+- **November 2025:** $21M Series A announced — covered by TechCrunch: "As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt"
 - **July 2025:** $7M Seed round; $0 to $4M ARR trajectory begins
 - Growing at 300+ new customers per month as of November 2025
 

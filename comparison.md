@@ -1,6 +1,6 @@
 # AI Search Visibility / AEO / GEO — Master Comparison Table
 
-*Last updated: 2026-05-10 (run 5)*
+*Last updated: 2026-06-09 (run 6)*
 
 > **Context:** Promptwatch.com is an **AI Search Visibility platform** (also called AEO — Answer Engine Optimization, or GEO — Generative Engine Optimization). It helps brands track and optimize how they appear inside AI-generated responses from ChatGPT, Gemini, Claude, Perplexity, and Google AI Overviews. This is a *marketing* tool, not a developer observability tool.
 
@@ -8,8 +8,8 @@
 
 ## Core Feature Comparison
 
-| Feature | **Promptwatch** | **Profound** | **Peec AI** | **Scrunch AI** | **Evertune** | **Otterly AI** | **AthenaHQ** | **Bluefish AI** | **LLM Pulse** | **AIclicks** | **Vismore** | **Orchly** | **GrackerAI** | **Ahrefs Brand Radar** | **Semrush AI Toolkit** |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Feature | **Promptwatch** | **Profound** | **Peec AI** | **Scrunch AI** | **Evertune** | **Otterly AI** | **AthenaHQ** | **Bluefish AI** | **LLM Pulse** | **AIclicks** | **Vismore** | **Orchly** | **GrackerAI** | **HubSpot AEO** | **Ahrefs Brand Radar** | **Semrush AI Toolkit** |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **Brand mention tracking** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Share of voice vs. competitors** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Prompt/query volume data** | ✅ | ✅ | ✅ | Partial | ✅ | ✅ | ✅ (enterprise) | ❌ | ✅ | Partial | Partial | Partial | ✅ | ✅ | ✅ |
