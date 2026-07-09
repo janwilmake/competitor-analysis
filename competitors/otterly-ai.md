@@ -36,19 +36,19 @@ Solo marketers, small business owners, agencies managing SME clients. Buyers who
 ## Integrations
 - 6 AI engines (exact list not fully confirmed; includes major platforms)
 
-## Recent News (as of June 2026)
-- **June 1, 2026:** Launched **Public API + Claude Skill + Marketplace of 101+ Marketing Workflows**. The Public API exposes every brand report, prompt, citation, recommendation, and GEO audit programmatically. The Claude Skill (single-file) enables marketers to run reports, content briefs, and competitor audits in plain English inside Claude. The marketplace allows community-contributed agent workflows — 101 at launch. This is a significant developer ecosystem play that directly matches Promptwatch's MCP integration story and Profound's Agents.
-- **May 21, 2026:** Won **European Search Awards 2026 — Best AI Search Software Solution** (Porto, Portugal). Beat 10 other finalists including MediaVision and Metis. Only AEO platform to win this category.
-- **June 2026:** Surpassed **30,000 active users** (up from 20,000 in February 2026 — 50% growth in ~4 months). Largest reported user base of any pure-play AEO tool.
-- **Gartner Cool Vendor 2025** — named in AI in Marketing category. Significant credibility signal.
-- **G2 Best Software Rookies of the Year 2026** — only AEO platform in Top 10.
-- **February 2026:** Surpassed **20,000 users**
-- **February 2026:** Published major citation research: "AI Search Engines Depend 95% on Third-Party Sources" (1M+ citations analyzed) — covered by GlobeNewswire, AiThority. Key finding: brands represent 52.5% of all AI citations; news sites 20.3%; community forums 5.9%.
-- **February 2026:** Announced technology **partnership with Noble** to connect citation intelligence with targeted digital outreach execution
-- **March 2026:** Published **YouTube Citation Study 2026** (100M AI citations analyzed across 6 platforms) — YouTube is #2 social platform for AI citations
-- **March 2026:** Launched **Recommendations feature** — translates monitoring data into prioritized optimization actions
-- **Ongoing:** Semrush App Center integration confirmed — Otterly available within Semrush's App Center as "Otterly - AI Search Monitoring." Note: the in-Semrush version is a **reduced feature set** (covers 3 models: ChatGPT, Google AI Overviews, Perplexity) compared to the full platform (6 models). Historical tracking, competitor insights, and team export tools require the full Otterly web platform. This is an important distribution channel but may create confusion around feature depth.
-- Confirmed bootstrapped with incubator support from GroWTF (Schremser's incubator); no external VC funding
+## Recent News (as of July 2026)
+- **June 25, 2026:** Launched **Query Fan-Out tool in GEO Audit** — enter any prompt and see the full range of sub-queries AI engines may generate (related questions, implicit intents, comparative queries). Supported for ChatGPT, Google AI Mode, Google AI Overviews. Selected queries can be added directly to monitored prompts. Also accessible via API/MCP.
+- **June 8, 2026:** Launched **MCP Server** — connect via OAuth 2.0 to query brand coverage, prompt rankings, citations, recommendations, and GEO audits directly from Claude, ChatGPT, Cursor, and any MCP-compatible client. This removes Promptwatch's remaining advantage on developer access.
+- **May 27, 2026:** Launched **Public API + Claude Skill** (announced June 1 press release). Public API exposes every brand report, prompt, citation, recommendation, and GEO audit. Claude Skill is a single-file drop-in for Claude Desktop. Community Marketplace launched simultaneously with 101+ workflows — allows community submission.
+- **May 21, 2026:** Won **European Search Awards 2026 — Best AI Search Software Solution** (Porto, Portugal). Only AEO platform to win this category.
+- **June 2026:** Confirmed **30,000 active users** — largest user base of any pure-play AEO tool. (Up from 20,000 in February 2026.)
+- **Blog (July 2, 2026):** Published "GEO and User-Generated Content: How UGC Wins AI Search Visibility" — ongoing content authority
+- **ChatGPT Ads tracking** — launched tracking for ChatGPT Shopping/Ads within Otterly (date not confirmed but visible on blog)
+- **Gartner Cool Vendor 2025** + **G2 Best Software Rookies of the Year 2026**
+- **February 2026:** "AI Search Engines Depend 95% on Third-Party Sources" research (1M+ citations)
+- **March 2026:** YouTube Citation Study 2026 (100M citations); Recommendations feature launch
+- **Ongoing:** Semrush App Center integration (reduced feature set — 3 models only)
+- Bootstrapped; incubator support from GroWTF. No external VC funding.
 
 ## Strengths
 - GEO audit feature is a useful differentiator — tells users *why* they aren't getting cited, not just *that* they aren't

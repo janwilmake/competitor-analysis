@@ -1,12 +1,15 @@
 # New Entrants — AI Search Visibility / GEO / AEO Space
 
-*Last updated: 2026-06-09 (run 6)*
+*Last updated: 2026-07-09 (run 7)*
 
 This file tracks newly identified competitors not yet with a full profile in `competitors/`. Once researched sufficiently, move entries to `competitors/`.
 
 ---
 
-## Promoted to Full Profile This Run (June 2026 — Run 6)
+## Promoted to Full Profile This Run (July 2026 — Run 7)
+- No promotions this run (resource constraints). HeyAmos, Moonrank, and Searchable added as new entries. Visiblie upgraded with additional detail. Rankscale AI flagged for promotion.
+
+## Promoted to Full Profile Previously (June 2026 — Run 6)
 - **HubSpot AEO** → `competitors/hubspot-aeo.md` ← PROMOTED (major new entrant; $50/month; 238,000+ customer base; launched April 14, 2026)
 
 ## Promoted to Full Profile Previously (May 2026 — Run 5)
@@ -23,6 +26,62 @@ This file tracks newly identified competitors not yet with a full profile in `co
 - **AIclicks** → `competitors/aiclicks.md` ← PROMOTED
 
 ---
+
+---
+
+## NEW ENTRANTS — Discovered July 2026
+
+---
+
+## HeyAmos
+**Website:** https://www.heyamos.com  
+**Pricing:** Starter $99/month (25 prompts, ChatGPT + AI Overviews); Pro $399/month (100 prompts, 5 engines + 25 AI content/mo); Agency/Enterprise: custom  
+**Founded:** ~2025 (appeared in HackerNoon's "11 Best GEO Tools" as #1 pick, May 2026)  
+**Funding:** Unknown / appears early-stage  
+**HQ:** Unknown  
+**What it does:** Full-stack GEO platform with a "weekly prioritized action list" as the core differentiator. HeyAmos doesn't just show you data — it analyzes visibility gaps, competitor citations, and what's already working, then hands you the top 5 actions to take every week. Execution features include: 1-click AI-optimized content generation (25 pieces/month on Pro), media partnerships (shortlists external sources to prioritize and helps buy/influence placements directly through a partner ecosystem), MCP server integration, multi-brand/agency workflows with white-label reporting, and direct access to GEO experts when human guidance is needed.  
+**Key differentiators:**  
+- "Top 5 weekly actions" UX is differentiated — most tools stop at data; HeyAmos curates the work queue
+- Media partnership ecosystem — actively helps users buy or influence placements in sources AI cites (no other tool does this)
+- MCP server included at all tiers
+- Human GEO expert access (not just software)
+- White-label agency tier  
+**Threat level:** MODERATE-HIGH. HeyAmos was ranked #1 in HackerNoon's May 2026 "11 Best GEO Tools" article (ahead of Profound, Otterly, Peec, GetCito). That's a strong signal of category visibility. The media partnership ecosystem is a genuinely unique feature — it's closer to a PR/GEO hybrid tool than a pure monitoring platform. At $399/month for Pro (100 prompts, 5 engines, 25 content/mo), it competes directly with Promptwatch Professional. The "weekly action list + media placements + human experts" bundle is a differentiated value proposition that Promptwatch doesn't have an equivalent for. Promptwatch should watch whether HeyAmos gets traction in the agency market.  
+**Status:** Active and growing. Ranked #1 in HackerNoon GEO tools article (May 2026). Needs full competitor profile.
+
+---
+
+## Moonrank
+**Website:** https://www.moonrank.ai  
+**Pricing:** $99/month (self-reported — "full-stack GEO automation: tracking + technical fixes + daily content publishing"); 3-day free trial  
+**Founded:** ~2025  
+**Funding:** Unknown / bootstrapped  
+**HQ:** Unknown  
+**What it does:** Full-automation GEO platform positioned at local businesses and SMBs. Tracks AI visibility across ChatGPT, Gemini, Claude, and Perplexity. Differentiator: **daily automated content publishing** — no human needed after initial setup. Also handles technical optimization (schema markup, llms.txt, structured data). Markets as "AI SEO on autopilot" — set up once, Moonrank publishes daily content and implements technical fixes automatically.  
+**Key differentiators:**
+- Daily automated content publishing without manual work
+- Technical optimization automated (schema, llms.txt, structured data)  
+- SMB/local business positioning ("no agency required, no technical skills needed")
+- $99/month flat for full automation stack  
+**Threat level:** LOW-MODERATE for Promptwatch's current customer base (Promptwatch targets marketing teams at growth-stage companies; Moonrank targets local businesses and SMBs that don't have marketing teams). However, Moonrank is actively publishing comparison content and may compete for budget-conscious entry-tier buyers who want "hands-off" automation vs. Promptwatch's hands-on monitoring approach.  
+**Status:** Active; publishing SEO content aggressively. G2 listing exists. Site occasionally returning errors (infrastructure strain possible). Needs pricing confirmation and user count research.
+
+---
+
+## Searchable
+**Website:** https://searchable.ai  
+**Pricing:** Starter $50/month (50 prompts, ChatGPT only); Professional $125/month (100 prompts, 3 models); Scale $400/month (500 prompts, 7 models)  
+**Founded:** 2025  
+**Funding:** $4M seed (December 2025, London)  
+**HQ:** London, UK  
+**What it does:** End-to-end AI search optimization platform combining monitoring, content creation (Content Studio), and optimization. Tracks up to 7 AI models on Scale plan. Includes HubSpot and Salesforce CRM integrations, GA4 and Google Search Console integration. Content Studio generates AI-optimized content with CMS export. 14-day free trial.  
+**Key differentiators:**
+- CRM integrations (HubSpot + Salesforce) — unique in category
+- GA4 + GSC integration
+- End-to-end (monitor + create + optimize) in one platform
+- $50/mo Starter is lowest full-platform entry price alongside HubSpot AEO  
+**Threat level:** MODERATE. The CRM integrations (HubSpot + Salesforce) are genuinely differentiating — no other pure-play AEO tool has CRM connectivity, making Searchable compelling for B2B sales/marketing teams who want to tie AI visibility to pipeline. $4M seed funding gives runway. Promptwatch previously described Searchable as "ChatGPT-only tracking" (an older characterization — Searchable now covers 7 models on Scale). The Visiblie comparison article (April 2026) gave a detailed analysis. Needs dedicated profile page.  
+**Status:** Active; $4M funded; appearing consistently in 2026 roundups. Recommend promotion to full competitor profile.
 
 ---
 

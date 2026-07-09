@@ -50,25 +50,26 @@ Marketing and SEO teams at growth-stage companies, agencies managing multiple cl
 - **Seed (Antler):** Part of Antler Berlin Winter 2024 cohort
 - **Seed Round:** €7M (July 2025, led by 20VC; with Antler, Combination VC, identity.vc, S20) — covered by TechCrunch/EU-Startups
 - **Series A:** $21M (November 2025, led by Singular; with Antler, Combination VC, identity.vc, S20)
-- **Total raised:** $29M — one of the largest Series A rounds in AI search to date
+- **Total raised:** ~$39M (confirmed July 2026 on ai-instructions page; up from $29M previously reported)
 - **Valuation:** >$100M (tripled at Series A per CEO Marius Meiners)
-- **ARR:** $4M+ (10 months post-launch, November 2025); targeting $20M+ ARR end of 2026 (CEO stated goal)
-- **Customers:** 1,300+ at Series A (Nov 2025); 2,000+ as of Q1 2026; adding 300+/month
-- **Team:** Hiring 40+ over 6 months post-Series A; opening New York office
-- **Founders:** Marius Meiners (CEO), Tobias Siwonia, Daniel Drabo — all from Antler's Berlin cohort
+- **ARR:** $10M+ (confirmed May 28, 2026); was $4M+ at Series A (November 2025); targeting $20M+ ARR end of 2026
+- **Customers:** 2,500+ globally (June 2026); 1,300+ at Series A (Nov 2025); adding 300+/month
+- **Team:** New York office now open; hiring 40+ post-Series A
+- **Founders:** Marius Meiners (CEO), Tobias Siwonia (CTO), Daniel Drabo (CRO) — all from Antler's Berlin cohort
 
-## Recent News (as of June 2026)
-- **May 28, 2026:** Published research: "AI Overviews is the most undertracked AI search: 500,000 prompts show why" — ongoing content authority building
-- **May 20, 2026:** Published case study: "How Mint Position helps fintech clients unlock 16% more AI search visibility with Peec AI" — agency validation
-- **May 14, 2026:** Published "Listicle Rank Effect" research: 200K AI responses across 8 AI engines reveal brand visibility patterns
-- **May 5, 2026:** Published "Patterns we see in ChatGPT query fanouts" — thought leadership on prompt mechanics
-- **April 2026:** MCP server integration launched (Peec MCP) — live data access from Claude, Cursor, VS Code. Peec now has dedicated MCP page at peec.ai/mcp
-- **April 2026:** 2,000+ marketing teams confirmed
-- **April 2026:** Referral program launched
-- **March 31, 2026:** Published "Top domains cited by AI search" — analysis based on 30M sources
-- **November 2025:** $21M Series A announced — covered by TechCrunch: "As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt"
-- **July 2025:** $7M Seed round; $0 to $4M ARR trajectory begins
-- Growing at 300+ new customers per month as of November 2025
+## Recent News (as of July 2026)
+- **July 6, 2026:** Added **Agent Analytics for AI bot tracking** (bulk MCP), **Brand Profile** feature, and improved prompt suggestions to changelog
+- **June 26, 2026:** Announced **dedicated research team** to decode how ChatGPT and other LLMs recommend brands — former enterprise SEO leaders, explainable-AI researcher, early AEO tool engineers. Focus: reverse-engineering AI search ranking factors. Covered by Yahoo Finance/GlobeNewswire.
+- **June 17, 2026:** Launched **AI Shopping Analytics** — SKU-level visibility into ChatGPT Shopping recommendations. Shows which products AI recommends, at what price, where it sends the buyer, win rate, position, and competitor co-features. Connects via Shopify domain, CSV, or Google Merchant Center feed. Directly competes with Promptwatch's Shopping Insights (May 2026) and Evertune's Shopping Intelligence (Jan 2026).
+- **June 4, 2026:** **Brand Insights** feature live for all — rebuilt chat detail view, cleaner hierarchy between answer/sources/features
+- **May 28, 2026:** **Confirmed $10M ARR** — 16 months after product launch. Covered by GlobeNewswire. Fastest $10M ARR in AEO category. New York office now open (US as fastest-growing market).
+- **May 28, 2026:** "AI Overviews is the most undertracked AI search: 500,000 prompts show why" research
+- **May 14, 2026:** "Listicle Rank Effect" research: 200K AI responses across 8 AI engines
+- **April 2026:** MCP server integration launched (Peec MCP) — live data access from Claude, Cursor, VS Code
+- **April 2026:** 2,500+ marketing teams; 2,000+ confirmed in April. Key logos: Attio, Squarespace, TUI, Hugo Boss
+- **Total funding confirmed ~$39M** (as of July 2026 AI instructions page) — up from $29M previously reported
+- **November 2025:** $21M Series A — TechCrunch: "As consumers ditch Google for ChatGPT, Peec AI raises $21M"
+- Growing at 300+ new customers per month (November 2025 baseline)
 
 ## Strengths
 - **Best-designed dashboard** in category — universally praised in reviews for simplicity and clarity

@@ -44,22 +44,25 @@ Mid-market to enterprise marketing teams (AEO teams, content teams, PR/brand tea
 - **Team:** ~120 employees (February 2026, Fortune profile)
 - **Founders:** James Cadwallader (CEO), Dylan Babbs (CTO)
 
-## Recent News (as of May 2026)
-- **May 7, 2026:** Launched **share Custom Dashboards with public links** — real-time Profound dashboards shareable with anyone
-- **June 5, 2026:** Launched **Documents in Profound** — a native document workspace inside the platform. Marketers can now draft, store, and act on brand documents (strategy docs, product briefs, messaging guides) directly inside Profound, alongside their visibility data and agents.
-- **June 11, 2026:** **Zero Click NYC** event confirmed — second leg of the "Zero Click 2026" conference series (SF leg previously completed). Cementing Profound as the category thought-leadership brand.
-- **May 7, 2026:** Launched **shareable public dashboard links** — Profound dashboards can now be shared externally via public link (stakeholder reporting, agency use cases)
-- **May 6, 2026:** Launched **OpenAI Ads nodes for Profound Agents** — same day OpenAI launched its self-serve ChatGPT Ads Manager (significant speed-to-market advantage). Agents can now pull OpenAI Ads performance data (CTR, CPC, impression volume) directly into automated monitoring and alerting workflows
-- **May 5, 2026:** **Google Drive + Notion integrations for Knowledge Base** — Agents can now pull brand voice, product docs, and messaging guidelines directly from Google Drive and Notion
-- **April 2026:** Team count updated to **165 employees** (per PitchBook); previously cited as ~120 (February 2026 Fortune article)
-- **February 2026:** $96M Series C at $1B valuation — covered by Fortune, TechCrunch, Lightspeed blog
-- **February 2026:** Launched **Profound Agents** — autonomous marketing automation built natively into the platform
-- **March 2026:** Launched **Semrush integration nodes** for Profound Agents — brings Semrush backlink/keyword data into AI monitoring workflows. Note: Semrush acquisition by Adobe (closed April 28, 2026) may affect how this integration evolves.
-- **March 2026:** Published research on ChatGPT shopping: 22.5M offers analyzed, Walmart leads rank-1 buy links
-- **December 2025 (approx):** Repriced downward — Starter at $99/mo (was $499+)
-- **Led G2 Winter Report 2026** for AEO tools; 300+ G2 reviews vs. competitors' much smaller counts
-- **Hosted "Zero Click" conference** (events in San Francisco, New York June 11, 2026 confirmed) — cementing thought leadership
-- **Profound Ecosystem launched:** Profound University, certification program, agency marketplace, and "Marketing Engineer" role definition — building a category moat through education and certification
+## Recent News (as of July 2026)
+- **July 8, 2026:** Added **Grok 4.5 support** — SpaceX AI's newest flagship model optimized for agentic workflows
+- **July 2, 2026:** Launched **Profound Aim** — an always-on background agent that monitors visibility/sentiment/accuracy, identifies highest-impact opportunities, creates structured Projects with briefs and tasks, and routes work to specialized Profound Agents. Covered by Adweek and Yahoo Finance. This is now the most advanced "autonomous marketer" product in the category.
+- **July 1, 2026:** Published **"The AI Mention Effect"** research — measuring downstream web browsing behavior after AI brand mentions. Data-driven research on AI mention → traffic causality.
+- **June 26, 2026:** Launched **Profound Agent Template Marketplace** — library of pre-built, deployable AI agent workflows for marketing, SEO, and AEO teams. Templates clone in minutes. Community submission model allows third-party templates. Directly competes with Otterly's 101-workflow marketplace.
+- **June 26, 2026:** Launched **Projects in Profound** — converts AEO data into a ranked list of opportunities, each with specific tasks and a ready-to-run Agent. "Less analyzing, more acting."
+- **June 25, 2026:** Published **"The Parrot Problem"** research — analysis of 50,000 prompts across 7 industries showing nearly half of AI responses include unsolicited comparisons, opinions, and recommendations the user never asked for. Significant brand safety implication.
+- **June 15, 2026:** Published **Zero Click New York recap** — 1,000+ marketing leaders gathered June 11 for Profound's largest summit. Speakers from Coca-Cola, LinkedIn, Delta Air Lines, U.S. Bank, CVS Health. Exclusive research revealed on Claude citation mechanics, ChatGPT ads business.
+- **June 9, 2026:** Added support for **Claude Fable** — Anthropic's newest flagship model
+- **June 5, 2026:** Launched **Documents in Profound** — native document workspace for strategy docs, product briefs, messaging guides alongside visibility data and agents
+- **May 13, 2026:** Published product roadmap: **Agent Assistant** (build agents by describing them in plain text/voice), **Background Agents** (run 24/7), **Ask Profound** (conversational interface within platform)
+- **May 7, 2026:** Launched **shareable public dashboard links** + **OpenAI Ads nodes for Profound Agents** (same-day as ChatGPT Ads Manager launch)
+- **May 5, 2026:** **Google Drive + Notion integrations for Knowledge Base**
+- **April 2026:** Team count updated to **165 employees**
+- **February 2026:** $96M Series C at $1B valuation
+- **March 2026:** Launched **Semrush integration nodes** for Profound Agents; research on ChatGPT shopping (22.5M offers analyzed)
+- **December 2025:** Repriced downward — Starter at $99/mo
+- **Led G2 Winter Report 2026** — 300+ G2 reviews
+- **Profound Ecosystem:** Profound University, certification program, agency marketplace, "Marketing Engineer" role definition
 
 ## Strengths
 - Dominant brand recognition in the AEO/GEO category — most referenced in "best AEO tools" lists
