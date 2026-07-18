@@ -7,7 +7,7 @@
 **HQ:** Berlin, Germany  
 **Status:** ⚡ **Series A-funded — $29M total raised; 2,000+ customers; one of Europe's fastest-growing AI startups**
 
-Peec AI is a high-growth Berlin-based AEO/GEO platform that went from $0 to $4M+ ARR in 10 months and raised $21M Series A in November 2025 (total $29M). It tracks brand visibility, sentiment, and position across 7 LLMs on standard paid plans, with an **Actions module** that converts visibility data into prioritized content, source, and citation gap recommendations. Growing at 300+ new customers per month. This is no longer a small startup — it is a well-funded European platform with serious enterprise ambitions.
+Peec AI is a high-growth Berlin-based AEO/GEO platform that went from $0 to $4M+ ARR in 10 months and $10M+ ARR by May 2026 (16 months post-launch). It raised a $21M Series A in November 2025 (~$39M total) and is **in talks for a ~$10M round at a $200M pre-money valuation (June 2026)** — roughly double its Series A valuation. It tracks brand visibility, sentiment, and position across 7 LLMs on standard paid plans, with an **Actions module** that converts visibility data into prioritized content, source, and citation gap recommendations. 2,500+ customers; adding 300+ new customers per month; NYC office opened May 2026. This is a well-funded European platform with serious enterprise ambitions and the clearest direct competitor to Promptwatch in the EU mid-market.
 
 ## Key Features
 - **Visibility, Position, and Sentiment tracking** across ChatGPT, Google AI Overviews, Google AI Mode, Copilot, Perplexity, Gemini, and Grok on all paid plans
@@ -51,13 +51,14 @@ Marketing and SEO teams at growth-stage companies, agencies managing multiple cl
 - **Seed Round:** €7M (July 2025, led by 20VC; with Antler, Combination VC, identity.vc, S20) — covered by TechCrunch/EU-Startups
 - **Series A:** $21M (November 2025, led by Singular; with Antler, Combination VC, identity.vc, S20)
 - **Total raised:** ~$39M (confirmed July 2026 on ai-instructions page; up from $29M previously reported)
-- **Valuation:** >$100M (tripled at Series A per CEO Marius Meiners)
+- **Valuation:** >$100M (tripled at Series A per CEO Marius Meiners); **in talks for a new ~$10M round at a $200M pre-money valuation (Sifted, June 27, 2026; TNW/TFN June 29) — roughly double its Series A valuation. Round still open as of late June 2026.**
 - **ARR:** $10M+ (confirmed May 28, 2026); was $4M+ at Series A (November 2025); targeting $20M+ ARR end of 2026
 - **Customers:** 2,500+ globally (June 2026); 1,300+ at Series A (Nov 2025); adding 300+/month
 - **Team:** New York office now open; hiring 40+ post-Series A
 - **Founders:** Marius Meiners (CEO), Tobias Siwonia (CTO), Daniel Drabo (CRO) — all from Antler's Berlin cohort
 
 ## Recent News (as of July 2026)
+- **June 27–29, 2026:** **In talks to raise ~$10M at a $200M pre-money valuation** (Sifted broke the story June 27; TNW and TechFundingNews followed June 29), roughly doubling its Series A valuation. Round remains open. This reinforces Peec as the default European comparison to Promptwatch and the clear #2 threat after Profound.
 - **July 6, 2026:** Added **Agent Analytics for AI bot tracking** (bulk MCP), **Brand Profile** feature, and improved prompt suggestions to changelog
 - **June 26, 2026:** Announced **dedicated research team** to decode how ChatGPT and other LLMs recommend brands — former enterprise SEO leaders, explainable-AI researcher, early AEO tool engineers. Focus: reverse-engineering AI search ranking factors. Covered by Yahoo Finance/GlobeNewswire.
 - **June 17, 2026:** Launched **AI Shopping Analytics** — SKU-level visibility into ChatGPT Shopping recommendations. Shows which products AI recommends, at what price, where it sends the buyer, win rate, position, and competitor co-features. Connects via Shopify domain, CSV, or Google Merchant Center feed. Directly competes with Promptwatch's Shopping Insights (May 2026) and Evertune's Shopping Intelligence (Jan 2026).
@@ -73,7 +74,7 @@ Marketing and SEO teams at growth-stage companies, agencies managing multiple cl
 
 ## Strengths
 - **Best-designed dashboard** in category — universally praised in reviews for simplicity and clarity
-- **$29M raised** — significantly more funded than Promptwatch ($1.2M); can afford aggressive product development, sales, and marketing
+- **~$39M raised ($200M valuation round in talks)** — significantly more funded than Promptwatch (~€7.2M, ~5x); can afford aggressive product development, sales, and marketing
 - **Actions module on every plan** — executes recommendations without extra cost, which competing agency tools often gate behind higher tiers
 - **Unlimited users on all plans** — a real differentiator for agency workflows
 - **Free pitch workspaces** — unique agency feature that allows showing client value before billing
@@ -91,4 +92,4 @@ Marketing and SEO teams at growth-stage companies, agencies managing multiple cl
 - VC pressure: Heavy funding may lead to enterprise pivoting and pricing increases over time
 
 ## Competitive Threat to Promptwatch
-**HIGH and UPGRADED.** Peec AI was previously rated MODERATE because it was a small startup. With $29M raised (25x Promptwatch's funding), a $100M+ valuation, 2,000+ customers, and 300+ new customers per month, Peec is now a serious competitive force. The Actions module + unlimited users + agency pitch workspaces directly compete with Promptwatch's agency segment. Peec's MCP integration (April 2026) removes one of Promptwatch's key technical differentiators. The main remaining Promptwatch advantages are: crawler log analysis, Reddit/YouTube tracking, content generation, and the 1B+ citation dataset. Peec's funding allows them to potentially build these features within 6-12 months if they choose to prioritize them.
+**HIGH — the #2 threat in the category after Profound, and the default European comparison to Promptwatch.** With ~$39M raised (and a $200M valuation round in talks as of June 2026), $10M+ ARR, 2,500+ customers, and 300+ new customers/month, Peec is a serious competitive force — now roughly ~5x Promptwatch's ~€7.2M total capital (the gap narrowed after Promptwatch's July 2026 €6M seed, but remains large). The Actions module + unlimited users + agency pitch workspaces directly compete with Promptwatch's agency segment. Peec's MCP integration (April 2026) removed one of Promptwatch's key technical differentiators, and its AI Shopping Analytics (June 2026) + dedicated research team are actively closing the data-quality gap. The main remaining Promptwatch advantages are: crawler log analysis, Reddit/YouTube tracking, content generation, and the 4.52B real-prompt dataset. Peec's funding allows them to potentially build these features within 6–12 months if they choose to prioritize them.

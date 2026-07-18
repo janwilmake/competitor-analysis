@@ -1,6 +1,6 @@
 # AI Search Visibility / AEO / GEO — Master Comparison Table
 
-*Last updated: 2026-07-09 (run 7)*
+*Last updated: 2026-07-18 (run 8)*
 
 > **Context:** Promptwatch.com is an **AI Search Visibility platform** (also called AEO — Answer Engine Optimization, or GEO — Generative Engine Optimization). It helps brands track and optimize how they appear inside AI-generated responses from ChatGPT, Gemini, Claude, Perplexity, and Google AI Overviews. This is a *marketing* tool, not a developer observability tool.
 
@@ -82,9 +82,9 @@
 
 | Tool | Founded | Status | Funding | Team Size | HQ |
 |---|---|---|---|---|---|
-| **Promptwatch** | 2025 | Seed-funded | $1.2M seed (Arches Capital, Sep 2025) | ~10–20 | Amsterdam, NL |
+| **Promptwatch** | 2025 (launched Apr 2025) | Seed-funded | **~€7.2M total** — €1.2M pre-seed (Arches Capital, Sep 2025) + **€6M seed (Jul 14, 2026, Seed + Speed Ventures lead; Blum Ventures + Arches Capital)** | ~15 (expanding) | Amsterdam, NL (NYC office planned) |
 | **Profound** | 2024 | VC unicorn ($1B) | $155M total (Series C, Lightspeed) | ~165 | New York, USA |
-| **Peec AI** | 2025 | Series A ($100M+ val.) | ~$39M total (20VC seed; Singular $21M Series A Nov 2025) | 40–80 + NY office | Berlin, DE |
+| **Peec AI** | 2025 | Series A; **$200M val. talks (Jun 2026)** | ~$39M total (20VC seed; Singular $21M Series A Nov 2025); ~$10M new round in talks | 40–80 + NY office (opened May 2026) | Berlin, DE |
 | **Scrunch AI** | ~2023/2024 | Series A | $26M total (Decibel, Mayfield) | 30–50 | Salt Lake City, USA |
 | **Evertune** | 2024 | Series A | $20M (Felicis Ventures) | 40+ | New York, USA |
 | **Otterly AI** | 2023 | Bootstrapped | Minimal/none | 11–50 | Persenbeug, Austria |
@@ -104,9 +104,9 @@
 
 | Tool | Primary Differentiation |
 |---|---|
-| **Promptwatch** | Crawler log analysis + Reddit/YouTube citation tracking + MCP integration + GSC integration + Answer Gap + Shopping Insights (May 2026) + Branded Knowledge Base + 4.52B citation dataset + Cloudflare/Fastly log integration + agency/white-label tier |
+| **Promptwatch** | Crawler log analysis + Reddit/YouTube citation tracking + MCP integration + GSC integration + Answer Gap + Shopping Insights (May 2026) + Unified Actions/Content Agents + **Agentic AI Search Optimization (Jul 2026)** + Branded Knowledge Base + 4.52B citation dataset + Cloudflare/Fastly log integration + agency/white-label tier; €2M+ ARR |
 | **Profound** | Market leader depth + Profound Aim (always-on background agent, July 2026) + Profound Agents + Projects + Agent Template Marketplace + Semrush integration + 10+ engine coverage + unicorn brand recognition |
-| **Peec AI** | ~$39M funded, $100M+ valuation, $10M ARR (May 2026), 2,500+ customers; Actions module + unlimited users + free agency pitch workspaces; AI Shopping Analytics (June 2026); dedicated research team (June 2026); fastest-growing EU AEO platform |
+| **Peec AI** | ~$39M funded, **$200M val. talks (Jun 2026)**, $10M ARR (May 2026), 2,500+ customers; Actions module + unlimited users + free agency pitch workspaces; AI Shopping Analytics (June 2026); dedicated research team (June 2026); fastest-growing EU AEO platform |
 | **Scrunch AI** | AXP (parallel machine-readable site) + narrative/sentiment analysis + misinformation detection |
 | **Evertune** | Source influence analytics + 1M+ prompts/brand/month + statistical rigor + Shopping Intelligence |
 | **Otterly AI** | 30,000+ users, European Search Awards winner 2026, G2 Rookie of Year + GEO audit + Public API + MCP Server (June 2026) + Query Fan-Out tool + 101-workflow marketplace + original citation research |
@@ -124,26 +124,28 @@
 
 ## Market Context Notes (July 2026)
 
-1. **Category validation is now undeniable:** Peec AI hit $10M ARR in 16 months (May 2026). Profound hosted Zero Click NYC with 1,000+ attendees (June 2026). Adobe/Semrush acquisition closed April 28, 2026. HubSpot launched AEO product at $50/month (April 2026). The category has moved from "emerging" to "mainstream procurement."
+1. **🔥 Promptwatch closed a €6M seed round (July 14, 2026)** led by Seed + Speed Ventures (Berlin), with Blum Ventures + Arches Capital. Total disclosed capital now ~€7.2M. Driven by €2M+ ARR (~12 months post-launch) and 1,840+ paying orgs. Funds a New York office, engineering/GTM expansion, and the new "Agentic AI Search Optimization" platform direction — Promptwatch's direct answer to Profound Aim. The funding gap narrows but remains very large (≈20x behind Profound, ≈5x behind Peec).
 
-2. **Profound Aim is the biggest product event since Agents:** Launched July 2, 2026, Aim is an always-on background agent that watches visibility/sentiment 24/7, identifies opportunities, creates structured Projects, and routes work to specialized agents. This is no longer a monitoring + recommendations tool — it is an autonomous marketing operator. No competitor has an equivalent. Adweek and Yahoo Finance covered the launch. Promptwatch needs a clear answer to the question "why not just use Profound Aim?"
+2. **Category validation is now undeniable:** Peec AI hit $10M ARR in 16 months (May 2026) and is in talks for a ~$10M round at a $200M pre-money valuation (Sifted, June 27). Profound hosted Zero Click NYC with 1,000+ attendees (June 2026). Adobe/Semrush acquisition closed April 28, 2026. HubSpot launched AEO product at $50/month (April 2026). Promptwatch's own €6M seed (July 2026). The category has moved from "emerging" to "mainstream procurement."
 
-3. **Adobe + Semrush acquisition CLOSED April 28, 2026 — operational threat is active:** Adobe CX Enterprise now bundles SEO + GEO + ASO (Agentic Search Optimization). Adobe is an official OpenAI Ads Manager technology partner. Fortune 500 CMOs running Adobe Experience Cloud face no new procurement decision to access AEO. Promptwatch needs a "why not just use Adobe?" answer.
+3. **Profound Aim is the biggest product event since Agents:** Launched July 2, 2026, Aim is an always-on background agent that watches visibility/sentiment 24/7, identifies opportunities, creates structured Projects, and routes work to specialized agents. This is no longer a monitoring + recommendations tool — it is an autonomous marketing operator. No competitor has an equivalent. Adweek and Yahoo Finance covered the launch. Promptwatch needs a clear answer to the question "why not just use Profound Aim?"
 
-4. **MCP/developer integration is now commoditized:** As of July 2026, Promptwatch, Peec AI, LLM Pulse, Otterly AI, and HeyAmos all have MCP servers. What was a Promptwatch differentiator in March 2026 is now table stakes. The next differentiation frontier is **data quality** (AI crawl data, real-user prompt panels) and **vertical-specific insights**.
+4. **Adobe + Semrush acquisition CLOSED April 28, 2026 — operational threat is active:** Adobe CX Enterprise now bundles SEO + GEO + ASO (Agentic Search Optimization). Adobe is an official OpenAI Ads Manager technology partner. Fortune 500 CMOs running Adobe Experience Cloud face no new procurement decision to access AEO. Promptwatch needs a "why not just use Adobe?" answer.
 
-5. **Pricing is being pressured from all angles:**
+5. **MCP/developer integration is now commoditized:** As of July 2026, Promptwatch, Peec AI, LLM Pulse, Otterly AI, and HeyAmos all have MCP servers. What was a Promptwatch differentiator in March 2026 is now table stakes. The next differentiation frontier is **data quality** (AI crawl data, real-user prompt panels) and **vertical-specific insights**.
+
+6. **Pricing is being pressured from all angles:**
    - Bottom: Orchly ($49/mo), LLM Pulse (€49), AIclicks ($59), Otterly (~$29), Wellows ($37) are commoditizing monitoring
    - HubSpot AEO ($50/mo) is the most dangerous entrant — same segment, massive distribution
    - Top: Profound Aim/Projects now clearly positioned as enterprise; Starter $99/mo still competes with Promptwatch Essential $95/mo
    - Promptwatch Essential dropped $4 (from $99 to $95) — likely a competitive response to HubSpot and Peec AI matching at $95
 
-6. **Peec AI at $10M ARR and $39M funding is now the #2 threat after Profound:** For the European mid-market, Peec AI is now the default comparison to Promptwatch. Their AI Shopping Analytics (June 2026) and dedicated research team close the data quality gap. Promptwatch's crawler logs and Reddit/YouTube tracking remain genuine differentiators but are no longer unique to Promptwatch alone in spirit — Peec is investing in the same data quality story.
+7. **Peec AI at $10M ARR and $39M funding is now the #2 threat after Profound:** For the European mid-market, Peec AI is now the default comparison to Promptwatch. Their AI Shopping Analytics (June 2026) and dedicated research team close the data quality gap. Promptwatch's crawler logs and Reddit/YouTube tracking remain genuine differentiators but are no longer unique to Promptwatch alone in spirit — Peec is investing in the same data quality story.
 
-7. **Otterly's 30,000 users + developer API + MCP is a growing threat in the entry tier:** Otterly now has a fully programmable platform (Public API, Claude Skill, MCP Server, 101-workflow marketplace) at significantly lower price points. Their fan-out tool and European Search Award win add legitimacy. Promptwatch's entry tier is under the most price competition.
+8. **Otterly's 30,000 users + developer API + MCP is a growing threat in the entry tier:** Otterly now has a fully programmable platform (Public API, Claude Skill, MCP Server, 101-workflow marketplace) at significantly lower price points. Their fan-out tool and European Search Award win add legitimacy. Promptwatch's entry tier is under the most price competition.
 
-8. **Promptwatch dataset scale is a genuine asset:** The homepage now claims **4.52 billion citations, clicks, and prompts** (up from 1.11B in April 2026 — 4x growth). Data cited by Wall Street Journal, Yahoo Finance, Axios. This is a moat if marketed correctly.
+9. **Promptwatch dataset scale is a genuine asset:** The homepage now claims **4.52 billion citations, clicks, and prompts** (up from 1.11B in April 2026 — 4x growth). Data cited by Wall Street Journal, Yahoo Finance, Axios. This is a moat if marketed correctly.
 
-9. **Horizontal platform threat from HubSpot is now real:** HubSpot AEO ($50/mo) launched April 14, 2026 with 238,000+ existing customers. For any HubSpot customer, the cost justification for Promptwatch Essential ($95/mo) requires proving 3 engines of extra coverage + crawler logs + Reddit tracking + content generation are worth $45/mo more. This is a genuine conversion pressure on new entrants.
+10. **Horizontal platform threat from HubSpot is now real:** HubSpot AEO ($50/mo) launched April 14, 2026 with 238,000+ existing customers. For any HubSpot customer, the cost justification for Promptwatch Essential ($95/mo) requires proving 3 engines of extra coverage + crawler logs + Reddit tracking + content generation are worth $45/mo more. This is a genuine conversion pressure on new entrants.
 
-10. **Vertical specialization is emerging:** GrackerAI (B2B SaaS/cybersecurity), Moonrank (local business/SMB), Search Party (autonomous distribution) are the first AEO tools to go deep on specific verticals or use cases. Promptwatch should consider whether vertical datasets or landing pages could defend specific segments.
+11. **Vertical specialization is emerging:** GrackerAI (B2B SaaS/cybersecurity), Moonrank (local business/SMB), Search Party (autonomous distribution) are the first AEO tools to go deep on specific verticals or use cases. Promptwatch should consider whether vertical datasets or landing pages could defend specific segments.

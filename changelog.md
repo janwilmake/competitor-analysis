@@ -1,5 +1,51 @@
 # Changelog
 
+## 2026-07-18 — Run 8: Promptwatch €6M Seed Round + Peec $200M Valuation Talks
+
+### 🔥 Headline: Promptwatch Closes €6M Seed (July 14, 2026)
+**The single most important event this cycle for the subject company.** Promptwatch raised a **€6M seed round** led by **Seed + Speed Ventures** (Berlin), with **Blum Ventures** and **Arches Capital** (doubled down on its Sep 2025 pre-seed) participating. Covered by TechFundingNews, AIPressRoom, and Promptwatch's own blog.
+- **Total disclosed capital now ~€7.2M** (~$7.8M) — up from €1.2M pre-seed. Funding gap vs. Profound ($155M) and Peec (~$39M) narrows but remains very large (≈20x and ≈5x behind respectively).
+- **€2M+ ARR** reached in April–May 2026, ~12 months after launch — capital-efficient growth highlighted by lead investor.
+- **1,840+ paying organizations** (per seed press; homepage body says "1,780+ brands and agencies"; homepage meta claims "7,000+ brands" — the 7,000 figure appears to be a broader/cumulative marketing claim, not paying customers). Adding 150+ new customers/month.
+- **New customer logos disclosed:** Duolingo, Fireflies, Monks, ABN AMRO, WPP, iO Digital (joining prior Booking.com, Center Parcs, Elaboratum, Wortell).
+- **Use of proceeds:** Open a **New York office**, expand engineering + GTM teams, accelerate the **Agentic AI Search Optimization** platform.
+- **New positioning:** "Agentic AI Search Optimization" — connect a website and Promptwatch's Agents continuously optimize AI visibility autonomously (direct answer to Profound Aim). Blog frames Content Agent + Actions + MCP as the foundation.
+- **Pricing unchanged:** Essential $95, Professional $245, Business $579.
+- **Dataset unchanged:** 4,520,200,000 (4.52B) citations, clicks, and prompts.
+- **Team:** ~15 employees (Tracxn, May 31, 2026) — small but growing with the raise.
+
+### Promptwatch Product Updates (from official changelog, captured this run)
+- **June 9, 2026:** Sentiment Actions & Weekly AI Insights — Unified Actions now includes sentiment-focused recommendations + weekly AI-written insight summaries; redesigned action detail view.
+- **June 6, 2026:** Weekly Action Digest Emails — account owners can opt into a weekly email rounding up highest-impact GEO actions.
+- **May 20, 2026:** Unified Actions — a kanban "AI-generated GEO to-do list" surfacing content gaps, untracked pages, untapped pages, Reddit social opportunities, setup gaps, and offsite mentions. This is Promptwatch's execution-layer answer to Profound Aim/Projects and Peec Actions.
+- *(Earlier 2026 entries already logged in prior runs.)*
+
+### Competitor Updates
+- **Peec AI:** In talks to raise **~$10M at a $200M pre-money valuation** (Sifted, June 27, 2026; TNW/TFN June 29) — roughly double its Series A valuation. Round still open. Reinforces Peec as the #2 threat after Profound and the default European comparison to Promptwatch. Added to `competitors/peec-ai.md`.
+- **Profound:** No new material events since run 7 captured Aim (July 2) and Grok 4.5 (July 8). Industry-Lens published Aim coverage July 17 — confirms sustained press momentum. Team size note: Fortune (Feb 2026) reported "fewer than 120" employees; an "165" figure cited in our file appears to be from a different source — treat as ~120–165, growing.
+- **AthenaHQ:** Shopify + GA4 revenue attribution (already noted run 7) continues to be its sharpest mid-market differentiator vs. Promptwatch. No new funding/product news this cycle.
+- **HubSpot AEO:** No new news; Content Actions (promised June 2026) still unconfirmed as shipped in public sources. Remains a top-3 horizontal threat at $50/mo.
+
+### Market Context Updates
+- **Gartner (cited in TFN):** organic search traffic could fall 50%+ by 2028; 58% of users have already moved from traditional search to AI tools. This is the macro thesis underwriting the entire funding wave.
+- **Category consolidation accelerating:** Promptwatch (€6M), Peec ($200M valuation talks), Profound ($1B), Adobe/Semrush (closed Apr 28), HubSpot AEO (Apr 14) — the GEO sector is "quickly coming together around a few well-funded companies" (TFN).
+
+### Files Updated This Run
+- `changelog.md` — this entry prepended
+- `README.md` — **full refresh** (was stale at April 2026 / run 3-4; updated to July 2026 run 8): pricing, dataset, company snapshot, key findings, competitive positioning
+- `comparison.md` — updated Promptwatch row (funding ~€7.2M, 1,840+ customers, €2M ARR, Agentic AI Search Optimization), Peec row ($200M valuation talks), Key Differentiators, Market Context notes, last-updated date
+- `competitors/peec-ai.md` — added $200M valuation talks to Funding & Recent News
+- `new-entrants.md` — updated last-updated date + run 8 cycle note (no new promotions; HeyAmos/Searchable remain flagged)
+
+### Key Intelligence Findings This Run
+1. **Promptwatch is no longer the under-funded underdog it was 10 months ago — but it is still ~5–20x behind the leaders on capital.** €6M is meaningful (5x its prior raise) and validates the model with a credible Berlin VC, yet Profound's $155M and Peec's runway+$200M talks mean the resource asymmetry remains the central strategic risk.
+2. **The "agentic" race is now the defining competitive axis.** Profound Aim (always-on agent, July 2), Promptwatch Agentic AI Search Optimization (July 14), Peec Actions, AthenaHQ Action Center, HubSpot Content Actions — every serious player has shipped or promised autonomous execution in H1–H2 2026. Pure monitoring is fully commoditized; the question is whose agent is best.
+3. **Promptwatch's honest differentiators are narrowing but still real.** Crawler logs, Reddit/YouTube citation tracking, and the 4.52B real-prompt dataset remain unmatched by name-brand competitors. But Peec's dedicated research team and Profound's data depth are actively closing the "data quality" gap. These moats need active investment/marketing or they erode within 12 months.
+4. **NYC office + US expansion is the right move but lands in Profound/Peec's home turf.** Both Profound (NYC HQ) and Peec (NYC office opened May 2026) are already entrenched in the US. Promptwatch's US land-and-expand will be contested directly.
+5. **Customer-count honesty:** Promptwatch markets "7,000+ brands" on its homepage meta but the seed-round press and homepage body cite ~1,840 paying organizations. The 7,000 figure should be treated as a marketing claim until reconciled — do not repeat it as a verified customer count.
+
+---
+
 ## 2026-04-10 — Run 3: New Competitor Profiles + Q1 2026 Updates
 
 ### New Competitor Files Added

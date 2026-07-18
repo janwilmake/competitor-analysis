@@ -1,12 +1,15 @@
 # New Entrants — AI Search Visibility / GEO / AEO Space
 
-*Last updated: 2026-07-09 (run 7)*
+*Last updated: 2026-07-18 (run 8)*
 
 This file tracks newly identified competitors not yet with a full profile in `competitors/`. Once researched sufficiently, move entries to `competitors/`.
 
 ---
 
-## Promoted to Full Profile This Run (July 2026 — Run 7)
+## Promoted to Full Profile This Run (July 2026 — Run 8)
+- No promotions this run. Cycle focused on Promptwatch's €6M seed round (July 14, 2026) and Peec AI's $200M valuation talks (June 27–29). HeyAmos and Searchable remain the top promotion candidates for a future run (both have enough public detail for full profiles). No brand-new entrants discovered this cycle beyond those already logged.
+
+## Promoted to Full Profile Previously (July 2026 — Run 7)
 - No promotions this run (resource constraints). HeyAmos, Moonrank, and Searchable added as new entries. Visiblie upgraded with additional detail. Rankscale AI flagged for promotion.
 
 ## Promoted to Full Profile Previously (June 2026 — Run 6)
