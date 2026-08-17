@@ -1,6 +1,6 @@
 # AI Search Visibility / AEO / GEO — Master Comparison Table
 
-*Last updated: 2026-07-18 (run 8)*
+*Last updated: 2026-08-17 (run 9)*
 
 > **Context:** Promptwatch.com is an **AI Search Visibility platform** (also called AEO — Answer Engine Optimization, or GEO — Generative Engine Optimization). It helps brands track and optimize how they appear inside AI-generated responses from ChatGPT, Gemini, Claude, Perplexity, and Google AI Overviews. This is a *marketing* tool, not a developer observability tool.
 
@@ -14,7 +14,7 @@
 | **Share of voice vs. competitors** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Prompt/query volume data** | ✅ | ✅ | ✅ | Partial | ✅ | ✅ | ✅ (enterprise) | ❌ | ✅ | Partial | Partial | Partial | ✅ | ✅ | ✅ |
 | **Source/citation tracking** | ✅ | Partial | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ (core) | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
-| **Crawler log analysis** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **Crawler log analysis** | ✅ | ❌ | ✅ (Crawl Insights, Aug 2026) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | **Answer Gap analysis** | ✅ | ✅ | ❌ | ❌ | Partial | ✅ (GEO audit) | ✅ (Action Center) | Partial | ✅ (recs) | ✅ | ✅ | ✅ (Action Center) | ✅ | ✅ (topic cluster) | ❌ |
 | **Sentiment / narrative analysis** | ✅ (basic) | Partial | ❌ | ✅ (core feature) | Partial | ❌ | ✅ | ✅ | ✅ | Partial | ❌ | ❌ | ✅ | ❌ | ✅ |
 | **Content optimization recommendations** | ✅ | ✅ (Agents) | ❌ | ❌ | ❌ | ✅ (recs, new) | ✅ (Action Center) | Partial | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
@@ -85,7 +85,7 @@
 | **Promptwatch** | 2025 (launched Apr 2025) | Seed-funded | **~€7.2M total** — €1.2M pre-seed (Arches Capital, Sep 2025) + **€6M seed (Jul 14, 2026, Seed + Speed Ventures lead; Blum Ventures + Arches Capital)** | ~15 (expanding) | Amsterdam, NL (NYC office planned) |
 | **Profound** | 2024 | VC unicorn ($1B) | $155M total (Series C, Lightspeed) | ~165 | New York, USA |
 | **Peec AI** | 2025 | Series A; **$200M val. talks (Jun 2026)** | ~$39M total (20VC seed; Singular $21M Series A Nov 2025); ~$10M new round in talks | 40–80 + NY office (opened May 2026) | Berlin, DE |
-| **Scrunch AI** | ~2023/2024 | Series A | $26M total (Decibel, Mayfield) | 30–50 | Salt Lake City, USA |
+| **Scrunch AI** | ~2023/2024 | ✅ **Sitecore subsidiary (acquired Jun 3, 2026, ~$225M/Bloomberg)** | $26M raised pre-acq. (Decibel, Mayfield); now backed by Sitecore ($1.23B) | 30–50 (+ Sitecore) | Salt Lake City, USA |
 | **Evertune** | 2024 | Series A | $20M (Felicis Ventures) | 40+ | New York, USA |
 | **Otterly AI** | 2023 | Bootstrapped | Minimal/none | 11–50 | Persenbeug, Austria |
 | **AthenaHQ** | 2024 | Seed | $2.7M (June 2025) | Small | San Francisco, USA |
@@ -104,9 +104,9 @@
 
 | Tool | Primary Differentiation |
 |---|---|
-| **Promptwatch** | Crawler log analysis + Reddit/YouTube citation tracking + MCP integration + GSC integration + Answer Gap + Shopping Insights (May 2026) + Unified Actions/Content Agents + **Agentic AI Search Optimization (Jul 2026)** + Branded Knowledge Base + 4.52B citation dataset + Cloudflare/Fastly log integration + agency/white-label tier; €2M+ ARR |
-| **Profound** | Market leader depth + Profound Aim (always-on background agent, July 2026) + Profound Agents + Projects + Agent Template Marketplace + Semrush integration + 10+ engine coverage + unicorn brand recognition |
-| **Peec AI** | ~$39M funded, **$200M val. talks (Jun 2026)**, $10M ARR (May 2026), 2,500+ customers; Actions module + unlimited users + free agency pitch workspaces; AI Shopping Analytics (June 2026); dedicated research team (June 2026); fastest-growing EU AEO platform |
+| **Promptwatch** | Crawler log analysis (Cloudflare/Fastly; ⚠️ now matched by Peec Crawl Insights, Aug 2026) + Reddit/YouTube citation tracking + MCP + GSC + Answer Gap + Shopping Insights + Unified Actions/Content Agents + **Agentic AI Search Optimization (Jul 2026)** + **Agent Chat (Aug 2026)** + **Ads Radar (Aug 2026)** + Branded Knowledge Base + 26.52B claimed citations/clicks/prompts (was 4.52B in Jul; ⚠️ implausible 5.8x jump — treat as marketing claim) + agency/white-label tier; €2M+ ARR |
+| **Profound** | Market leader depth + **Profound Index (Jun 16/29 — 1.5B real-user prompts, 50+ industries, weekly, published benchmark product)** + Profound Aim (always-on background agent, July 2026) + Profound Agents + Projects + Agent Template Marketplace + Agent Analytics (AI-crawler tracking) + Semrush integration + 10+ engine coverage + unicorn brand recognition |
+| **Peec AI** | ~$39M funded, **$200M val. talks (Jun 2026, still open)**, $10M ARR (May 2026), 2,500+ customers, ~85–93 employees; Actions + unlimited users + free agency pitch workspaces; **Crawlability + Crawl Insights server-log AI-crawler tracking (40+ bots, 8 log integrations, Aug 2026) — erases Promptwatch's crawler-log moat**; Brand Perception (GA Aug 2026) + Ads page; AI Shopping Analytics (June 2026); dedicated research team; MCP; fastest-growing EU AEO platform |
 | **Scrunch AI** | AXP (parallel machine-readable site) + narrative/sentiment analysis + misinformation detection |
 | **Evertune** | Source influence analytics + 1M+ prompts/brand/month + statistical rigor + Shopping Intelligence |
 | **Otterly AI** | 30,000+ users, European Search Awards winner 2026, G2 Rookie of Year + GEO audit + Public API + MCP Server (June 2026) + Query Fan-Out tool + 101-workflow marketplace + original citation research |
@@ -119,6 +119,24 @@
 | **GrackerAI** | B2B SaaS/cybersecurity vertical specialist; programmatic GEO at enterprise scale; 6 engines monitored daily |
 | **Ahrefs Brand Radar** | 193M+ real search queries, broadest data set; integrated with full SEO platform |
 | **Semrush AI Toolkit** | ✅ **Adobe acquisition completed April 28, 2026** — now part of Adobe CX Enterprise; adds "ASO" (Agentic Search Optimization) to SEO+GEO stack; OfficialOpenAI Ads Manager partner; distribution to 28M+ users |
+
+---
+
+## Market Context Notes (August 2026 — Run 9 additions)
+
+12. **🔴 Peec AI erased Promptwatch's crawler-log moat (Aug 2026).** Peec's Crawlability + Crawl Insights (Agent Analytics) now does server-log AI-crawler tracking — 8 log-ingestion integrations (AWS CloudFront, Google Cloud CDN, Cloudflare Workers, Vercel Log Drains, WordPress, Akamai DataStream, webhook, CSV/CLF), 40+ AI bots / 20+ vendors, URL/folder-level breakdowns by bot/platform/type (Training/Search/User Query/Other), and — critically — joins crawl data to prompt-tracking so it can answer "is bot interest translating into actual retrieval+citation?" The `Crawler log analysis` row in this table has been updated: Peec is now ✅. Promptwatch's most-marketed unique feature is no longer unique; the remaining unmatched differentiators narrow to Reddit/YouTube citation tracking, content generation, and the (contested) dataset.
+
+13. **Profound Index (Jun 16/29) turns Profound's dataset into a published benchmark product.** 1.5B real-user prompts, 50+ industries, weekly, six core metrics, industry leaderboards. This directly contests Promptwatch's "real-prompt dataset" positioning — and Profound's data is now cited as the category reference (MarketingDive Aug 7: ChatGPT→Reddit 2.4%, YouTube 0.99%).
+
+14. **Promptwatch's dataset counter jumped 4.52B → 26.52B in ~one month.** The homepage now reads 26,520,890,000 "citations, clicks, and prompts." A 5.8x jump in 30 days is not credible as organic data growth — likely a counter ratchet or broadened metric definition. Treat the absolute number as a marketing claim; the only defensible signal is the upward trajectory. Promptwatch still has not published methodology.
+
+15. **Second DXP-bundles-AEO acquisition: Sitecore × Scrunch (~$225M, Jun 3).** After Adobe/Semrush (Apr 28), this is the second major enterprise CX platform buying AEO rather than building it. Scrunch's AXP + Sitecore DXP = "insight→action" bundle for Sitecore's enterprise base — the same procurement-bypass threat Adobe posed. Scrunch clients: Lenovo, Skims, Headspace, Penn State.
+
+16. **The "chat analyst" layer is converging.** Promptwatch Agent Chat (Aug), geotoolbox "Ask GeoToolBox," Peec Brand Perception, Profound "Ask Profound" (roadmap) — conversational AI analysts are becoming 2026-H2 table stakes.
+
+17. **Revenue attribution remains the unsolved CFO question (Digiday, Aug 13).** "CMOs are struggling to link AI visibility with sales." AthenaHQ's Shopify/GA4 attribution stays a genuine differentiator; most players (Promptwatch included) still can't cleanly answer "how much revenue did ChatGPT drive?"
+
+18. **Category long tail is dense and price-compressing.** echowi.ai's Aug-verified catalogue counts 66 AI-visibility tools, 53 still buyable, 1 shut down; 32 of 42 priced tools sit under $100/mo. New budget/vertical entrants this run: JetOctopus (incumbent log-analysis specialist moving into AI visibility — a real crawler-moat threat), geotoolbox ($99/mo, leads with reachability), CrawlPact (free vendor-neutral robots.txt/crawler-policy auditor), GeoVector, EchoWi (€29), Mentions.so ($49). Pure monitoring is fully commoditized.
 
 ---
 
